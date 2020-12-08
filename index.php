@@ -4,8 +4,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Anchorb-needle Data Virtualization">
-    <meta name="keywords" content="Survey, Managment, Application, Software">
+    <meta name="description" content="Engineering design activities for industrial process and production">
+    <meta name="keywords" content="Apartment 40 Echo Building, West Wear Street, Sunderland, England, SR1 1XD">
     <meta name="author" content="pixelstrap">
     <link rel="icon" href="assets/images/" type="image/x-icon">
     <link rel="shortcut icon" href="assets/images/" type="image/x-icon">
