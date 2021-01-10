@@ -14,9 +14,10 @@ include('header.php');
               <div class="hero-content-wrapper">
                 <div class="hero-content">
                   
-                  <img src="assets/images/hero/ag2-logo.png" alt="Creative Agency Template">
-                  <h1 class="hero-lead">Creative Agency</h1>
-                  <h4 class="h-alt hero-secondary">Web Design &amp; Development</h4>
+                <!-- ISMATIC LOGO -->
+                  <!-- <img src="assets/images/hero/ag2-logo.png" alt="Creative Agency Template"> -->
+                  <h1 class="hero-lead">Ismatic Engineering</h1>
+                  <h4 class="h-alt hero-secondary">Engineering Design  &amp; Technical consulting</h4>
                   <a href="#about" class="btn btn-light">Learn More</a>
                   
                   <!-- Scroller -->

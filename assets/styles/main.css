@@ -8275,7 +8275,7 @@ form .input-error-2:focus {
 }
 
 .agency2-hero {
-  background: url(http://placehold.it/2440x1578);
+  background: url('../../wall/gears.jpg');
   background-size: cover;
   background-position: 50%;
   background-attachment: fixed;
