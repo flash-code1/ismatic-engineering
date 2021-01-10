@@ -109,16 +109,16 @@ Engineering related scientific and technical consulting activities">
                       <div class="col-lg-6 mb-sm-30">
                         <li class="dropdown-header">Innovations</li>
                         <li role="separator" class="divider"></li>
-                        <li><a href="pages/portfolio/portfolio-fw-1col.html">--Need Project--</a></li>
-                        <li><a href="pages/portfolio/portfolio-fw-2col.html">--Need Project--</a></li>
+                        <li><a href="#">--Need Project--</a></li>
+                        <li><a href="#">--Need Project--</a></li>
                       </div>
 
                       <!-- Boxed -->
                       <div class="col-lg-6 mb-sm-30">
                         <li class="dropdown-header">Prototype</li>
                         <li role="separator" class="divider"></li>
-                        <li><a href="pages/portfolio/portfolio-boxed-1col.html">--Need Project--</a></li>
-                        <li><a href="pages/portfolio/portfolio-boxed-2col.html">--Need Project--</a></li>
+                        <li><a href="#">--Need Project--</a></li>
+                        <li><a href="#">--Need Project--</a></li>
                       </div>
 
 
@@ -137,8 +137,8 @@ Engineering related scientific and technical consulting activities">
                       <div class="col-lg-7">
                         <li class="dropdown-header">Explore</li>
                         <li role="separator" class="divider"></li>
-                        <li><a href="pages/shop/shop-right-sidebar.html">Partners</a></li>
-                        <li><a href="pages/shop/shop-left-sidebar.html">Blog</a></li>
+                        <li><a href="ismatic-partners.php">Partners</a></li>
+                        <li><a href="ismatic-blog.php">Blog</a></li>
                       </div>
                       <div class="col-lg-5 dropdown-banner">
                         <!-- ismatic logo -->
