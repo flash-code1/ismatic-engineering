@@ -84,15 +84,15 @@ Engineering related scientific and technical consulting activities">
 
                 <!-- Shop -->
                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="350" role="button" aria-haspopup="true" aria-expanded="false">What We Do <span class="caret"></span></a>
+                  <a href="services.php" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="350" role="button" aria-haspopup="true" aria-expanded="false">What We Do <span class="caret"></span></a>
                   <ul class="dropdown-menu bg-solid">
                     <div class="row">
                       <div class="col-lg-12">
                         <li class="dropdown-header">Services</li>
                         <li role="separator" class="divider"></li>
-                        <li><a href="pages/shop/shop-right-sidebar.html">Research</a></li>
-                        <li><a href="pages/shop/shop-left-sidebar.html">Innovation</a></li>
-                        <li><a href="pages/shop/shop-left-sidebar.html">Testing&Validation</a></li>
+                        <li><a href="services.php#Research">Research</a></li>
+                        <li><a href="services.php#innovation">Innovation</a></li>
+                        <li><a href="services.php#testingandvalidation">Testing & Validation</a></li>
                       </div>
                     </div>
                   </ul>
@@ -109,16 +109,16 @@ Engineering related scientific and technical consulting activities">
                       <div class="col-lg-6 mb-sm-30">
                         <li class="dropdown-header">Innovations</li>
                         <li role="separator" class="divider"></li>
-                        <li><a href="pages/portfolio/portfolio-fw-1col.html">Full Width 1 Column</a></li>
-                        <li><a href="pages/portfolio/portfolio-fw-2col.html">Full Width 2 Columns</a></li>
+                        <li><a href="pages/portfolio/portfolio-fw-1col.html">--Need Project--</a></li>
+                        <li><a href="pages/portfolio/portfolio-fw-2col.html">--Need Project--</a></li>
                       </div>
 
                       <!-- Boxed -->
                       <div class="col-lg-6 mb-sm-30">
                         <li class="dropdown-header">Prototype</li>
                         <li role="separator" class="divider"></li>
-                        <li><a href="pages/portfolio/portfolio-boxed-1col.html">Boxed 1 Columns</a></li>
-                        <li><a href="pages/portfolio/portfolio-boxed-2col.html">Boxed 2 Columns</a></li>
+                        <li><a href="pages/portfolio/portfolio-boxed-1col.html">--Need Project--</a></li>
+                        <li><a href="pages/portfolio/portfolio-boxed-2col.html">--Need Project--</a></li>
                       </div>
 
 
