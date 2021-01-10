@@ -69,9 +69,34 @@ Engineering related scientific and technical consulting activities">
 
                 <!-- Home -->
                 <li class="dropdown mega-fw">
-                  <a href="index.php" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="350" role="button" aria-haspopup="true" aria-expanded="false">Home</a>
+                  <a href="index.php" class="dropdown-toggle"  data-hover="dropdown" data-delay="350" role="button" aria-haspopup="true" aria-expanded="false">Home</a>
                 </li><!-- / Home -->
+
+                 <!-- About -->
+                 <li class="dropdown mega-fw">
+                  <a href="about-us.php" class="dropdown-toggle"  data-hover="dropdown" data-delay="350" role="button" aria-haspopup="true" aria-expanded="false">About</a>
+                </li><!-- / About -->
                 
+                <!-- Contact -->
+                <li class="dropdown mega-fw">
+                  <a href="contact-us.php" class="dropdown-toggle"  data-hover="dropdown" data-delay="350" role="button" aria-haspopup="true" aria-expanded="false">Contact</a>
+                </li><!-- / Contact -->
+
+                <!-- Shop -->
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="350" role="button" aria-haspopup="true" aria-expanded="false">What We Do <span class="caret"></span></a>
+                  <ul class="dropdown-menu bg-solid">
+                    <div class="row">
+                      <div class="col-lg-12">
+                        <li class="dropdown-header">Services</li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="pages/shop/shop-right-sidebar.html">Research</a></li>
+                        <li><a href="pages/shop/shop-left-sidebar.html">Innovation</a></li>
+                        <li><a href="pages/shop/shop-left-sidebar.html">Testing&Validation</a></li>
+                      </div>
+                    </div>
+                  </ul>
+                </li><!-- / Blog -->
 
 
                 <!-- Portfolio -->
@@ -81,43 +106,22 @@ Engineering related scientific and technical consulting activities">
                     <div class="row">
                       
                       <!-- Full Width -->
-                      <div class="col-lg-3 mb-sm-30">
-                        <li class="dropdown-header">Full Width</li>
+                      <div class="col-lg-6 mb-sm-30">
+                        <li class="dropdown-header">Innovations</li>
                         <li role="separator" class="divider"></li>
                         <li><a href="pages/portfolio/portfolio-fw-1col.html">Full Width 1 Column</a></li>
                         <li><a href="pages/portfolio/portfolio-fw-2col.html">Full Width 2 Columns</a></li>
-                        <li><a href="pages/portfolio/portfolio-fw-3col.html">Full Width 3 Columns</a></li>
-                        <li><a href="pages/portfolio/portfolio-fw-4col.html">Full Width 4 Columns</a></li>
                       </div>
 
                       <!-- Boxed -->
-                      <div class="col-lg-3 mb-sm-30">
-                        <li class="dropdown-header">Boxed</li>
+                      <div class="col-lg-6 mb-sm-30">
+                        <li class="dropdown-header">Prototype</li>
                         <li role="separator" class="divider"></li>
                         <li><a href="pages/portfolio/portfolio-boxed-1col.html">Boxed 1 Columns</a></li>
                         <li><a href="pages/portfolio/portfolio-boxed-2col.html">Boxed 2 Columns</a></li>
-                        <li><a href="pages/portfolio/portfolio-boxed-3col.html">Boxed 3 Columns</a></li>
-                        <li><a href="pages/portfolio/portfolio-boxed-4col.html">Boxed 4 Columns</a></li>
                       </div>
 
-                      <!-- Masonry -->
-                      <div class="col-lg-3 mb-sm-30">
-                        <li class="dropdown-header">Masonry</li>
-                        <li role="separator" class="divider"></li>
-                        <li><a href="pages/portfolio/portfolio-masonry-1.html">Masonry Layout 1</a></li>
-                        <li><a href="pages/portfolio/portfolio-masonry-2.html">Masonry Layout 2</a></li>
-                        <li><a href="pages/portfolio/portfolio-masonry-3.html">Masonry Layout 3</a></li>
-                      </div>
 
-                      <!-- Other -->
-                      <div class="col-lg-3 mb-sm-30">
-                        <li class="dropdown-header">Other</li>
-                        <li role="separator" class="divider"></li>
-                        <li><a href="pages/portfolio/portfolio-single-1.html">Portfolio Single 1</a></li>
-                        <li><a href="pages/portfolio/portfolio-single-2.html">Portfolio Single 2</a></li>
-                        <li><a href="pages/portfolio/portfolio-single-3.html">Portfolio Single 3</a></li>
-                        <li><a href="pages/portfolio/portfolio-single-4.html">Portfolio Single 4</a></li>
-                      </div>
 
                     </div><!-- / .row -->
                   </ul><!-- / .dropdown-menu -->
@@ -127,17 +131,18 @@ Engineering related scientific and technical consulting activities">
 
                 <!-- Shop -->
                 <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="350" role="button" aria-haspopup="true" aria-expanded="false">Shop <span class="caret"></span></a>
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="350" role="button" aria-haspopup="true" aria-expanded="false">Explore More <span class="caret"></span></a>
                   <ul class="dropdown-menu bg-solid">
                     <div class="row">
                       <div class="col-lg-7">
-                        <li class="dropdown-header">Shop</li>
+                        <li class="dropdown-header">Explore</li>
                         <li role="separator" class="divider"></li>
-                        <li><a href="pages/shop/shop-right-sidebar.html">Shop Right Sidebar</a></li>
-                        <li><a href="pages/shop/shop-left-sidebar.html">Shop Left Sidebar</a></li>
+                        <li><a href="pages/shop/shop-right-sidebar.html">Partners</a></li>
+                        <li><a href="pages/shop/shop-left-sidebar.html">Blog</a></li>
                       </div>
                       <div class="col-lg-5 dropdown-banner">
-                        <img src="assets/images/shop/baner-shop-dark.png" alt="Definity eCommerce update">
+                        <!-- ismatic logo -->
+                        <!-- <img src="assets/images/shop/baner-shop-dark.png" alt="Definity eCommerce update"> -->
                       </div>
                     </div>
                   </ul>

@@ -107,7 +107,7 @@
               <div class="row">
                 
                 <div class="col-md-6">
-                  <small>&copy; 2015 Definity. Made by <a class="no-style-link" href="http://themeforest.net/user/octarinethemes" target="_blank">OctarineThemes</a></small>
+                  <small>&copy; <?php echo date('Y'); ?> Ismatic Engineering. Made by <a class="no-style-link" href="https://ismatic.co.uk" target="_blank">ismatic.co.uk</a></small>
                 </div>
 
                 <div class="col-md-6">
