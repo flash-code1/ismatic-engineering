@@ -79,7 +79,7 @@ Engineering related scientific and technical consulting activities">
                 
                 <!-- Contact -->
                 <li class="dropdown mega-fw">
-                  <a href="contact-us.php" class="dropdown-toggle"  data-hover="dropdown" data-delay="350" role="button" aria-haspopup="true" aria-expanded="false">Contact</a>
+                  <a href="#contact-us" class="dropdown-toggle"  data-hover="dropdown" data-delay="350" role="button" aria-haspopup="true" aria-expanded="false">Contact</a>
                 </li><!-- / Contact -->
 
                 <!-- Shop -->

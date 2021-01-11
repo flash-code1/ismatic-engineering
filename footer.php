@@ -1,5 +1,5 @@
   <!-- ========== Footer Contact ========== -->
-        
+  <section id="contact-us">
   <footer id="contact" class="footer-contact">
           <div class="container-fluid">
             <div class="row">
@@ -118,6 +118,7 @@
             </div><!-- / .container -->
           </div><!-- / .copyright -->
         </footer><!-- / .footer-contact -->
+        </section>
 
     
 
