@@ -48,7 +48,7 @@
               <div class="col-lg-6 no-gap section contact-form">
                 <header class="sec-heading">
                   <h2>Contact</h2>
-                  <span class="subheading">Lorem ipsum dolor sit amet</span>
+                  <span class="subheading">Contact Ismatic Engineering</span>
                 </header>
 
                 <form action="assets/contact-form/contact-form.php" method="POST" class="form-ajax wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
@@ -92,8 +92,8 @@
                 <ul>
                   <li><a href="#">facebook</a></li>
                   <li><a href="#">Twitter</a></li>
-                  <li><a href="#">Dribbble</a></li>
-                  <li><a href="#">Behance</a></li>
+                  <li><a href="#">Instagram</a></li>
+                  <li><a href="#">Linkedin</a></li>
                 </ul>
 
               </div>
