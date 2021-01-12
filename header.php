@@ -59,8 +59,8 @@ Engineering related scientific and technical consulting activities">
               </button>
 
               <!-- Logo -->
-              <a class="navbar-brand" href="index.php">Ismatic logo</a>
-              <!-- <a class="navbar-brand" href="index.html"><img src="assets/images/logo-light.png" alt="Definity - Logo"></a> -->
+              <!-- <a class="navbar-brand" href="index.php">Ismatic logo</a> -->
+              <a class="navbar-brand" href="index.php" style="margin-top: -15px;" ><img src="wall/logo/ismatic2.png" height="70px" width="70px" alt="Ismatic - Logo"></a>
             </div><!-- / .navbar-header -->
 
             <!-- Navbar Links -->
