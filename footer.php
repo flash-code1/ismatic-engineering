@@ -17,24 +17,24 @@
                     <!-- Address -->
                     <li class="contact-group">
                       <span class="adr-heading">Address</span>
-                      <span class="adr-info">100 Street, Il, US</span>
+                      <span class="adr-info">Apartment 40 Echo Building, West Wear Street, Sunderland, England, SR1 1XD</span>
                     </li>
                     <!-- Email -->
                     <li class="contact-group">
                       <span class="adr-heading">Email</span>
-                      <span class="adr-info">sayhello@email.com</span>
+                      <span class="adr-info">info@ismatic.co.uk</span>
                     </li>
                   </ul>
                   <ul>
                     <!-- Phone -->
                     <li class="contact-group">
                       <span class="adr-heading">Phone</span>
-                      <span class="adr-info">+ 123 4567 890</span>
+                      <span class="adr-info">+ -need phone</span>
                     </li>
                     <!-- Mobile -->
                     <li class="contact-group">
                       <span class="adr-heading">Mobile</span>
-                      <span class="adr-info">+ 123 4567 890</span>
+                      <span class="adr-info">+ -need phone</span>
                     </li>
                   </ul>                  
                   

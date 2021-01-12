@@ -15,7 +15,7 @@ include('header.php');
                 <div class="hero-content">
                   
                 <!-- ISMATIC LOGO -->
-                  <img src="wall/logo/ismatic2.png" alt="Creative Agency Template" height="200px" width="200px">
+                  <img src="wall/logo/ismatic2b.png" alt="Creative Agency Template" height="300px" width="300px">
                   <h1 class="hero-lead">Ismatic Engineering</h1>
                   <h4 class="h-alt hero-secondary">Engineering Design  &amp; Technical consulting</h4>
                   <a href="#about" class="btn btn-light">Learn More</a>
@@ -42,24 +42,23 @@ include('header.php');
           <div class="row section">
             
             <header class="sec-heading">
-              <h2>About Studio</h2>
-              <span class="subheading">Lorem ipsum dolor sit amet, consectetur</span>
+              <h2>About Ismatic Engineering</h2>
+              <span class="subheading">Engineering design activities for industrial process and production, Engineering related scientific and technical consulting activities</span>
             </header>
 
             <div class="col-md-4">
-              <blockquote>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-              <footer><cite>by Henry Hill</cite></footer></blockquote>
+              <p>Content of about goes here, quick points about the organization and what it's about.</p>
             </div>
             <div class="col-md-4">
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro dolor, hic tempore omnis! Et, quod! Repudiandae itaque necessitatibus, facilis optio debitis incidunt, veniam placeat fuga eos molestiae culpa rem eveniet.</p>
+              <p>Content of about goes here, quick points about the organization and what it's about.</p>
             </div>
             <div class="col-md-4">
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro dolor, hic tempore omnis! Et, quod! Repudiandae itaque necessitatibus, facilis optio debitis incidunt, veniam placeat fuga eos molestiae culpa rem eveniet.</p>
+              <p>Content of about goes here, quick points about the organization and what it's about.</p>
             </div>
           </div><!-- / .row -->
           <div class="row ws-m">
             <div class="col-md-12 text-center">
-              <a href="pages/about-1.html" class="btn-text">More about us</a>
+              <a href="about-us.php" class="btn-text">More about us</a>
             </div>
           </div>
         </section><!-- / .container -->
@@ -73,26 +72,26 @@ include('header.php');
             <div id="counters-min" class="row count-wrapper">
               
               <!-- Item 1 -->
-              <div class="col-md-3 mb-sm-100 count-item wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">
-                <span id="count-min-1" class="count-nbr">675</span>
+              <div class="col-md-4 mb-sm-100 count-item wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">
+                <span id="count-min-1" class="count-nbr">258</span>
                 <span class="count-text">Projects completed</span>
               </div>
 
               <!-- Item 2 -->
-              <div class="col-md-3 mb-sm-100 count-item wow fadeIn" data-wow-duration="1s">
-                <span id="count-min-2" class="count-nbr">1457</span>
-                <span class="count-text">Emails Send</span>
+              <div class="col-md-4 mb-sm-100 count-item wow fadeIn" data-wow-duration="1s">
+                <span id="count-min-2" class="count-nbr">27</span>
+                <span class="count-text">On-going Projects</span>
               </div>
 
               <!-- Item 3 -->
-              <div class="col-md-3 mb-sm-100 count-item wow fadeIn" data-wow-duration="1s">
+              <!-- <div class="col-md-3 mb-sm-100 count-item wow fadeIn" data-wow-duration="1s">
                 <span id="count-min-3" class="count-nbr">471</span>
-                <span class="count-text">Pixels created</span>
-              </div>
+                <span class="count-text">Pixels cr</span>
+              </div> -->
 
               <!-- Item 4 -->
-              <div class="col-md-3 count-item wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">
-                <span id="count-min-4" class="count-nbr">753</span>
+              <div class="col-md-4 count-item wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">
+                <span id="count-min-4" class="count-nbr">240</span>
                 <span class="count-text">Happy clients</span>
               </div>
 
@@ -110,36 +109,36 @@ include('header.php');
 
               <header class="sec-heading">
                 <h2>What we do</h2>
-                <span class="subheading">Lorem ipsum dolor sit amet, consectetur</span>
+                <span class="subheading">Engineering design activities for industrial process and production, Engineering related scientific and technical consulting activities</span>
               </header>
               
               <!-- Item 1 -->
               <div class="col-lg-4 col-md-6 mb-sm-50">
                 <div class="ft-item wow fadeInUp" data-wow-duration="1s">
-                  <span class="linea-ecommerce-diamond"></span>
-                  <h4>Expert UX/UI Design</h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur elit adipisicing , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minimv</p>
-                  <a href="#">Learn more <span class="linea-arrows-slim-right"></span></a>
+                  <span class="fa fa-search"></span>
+                  <h4>Research</h4>
+                  <p>Content of Research goes here, quick points about research in the organization</p>
+                  <a href="services.php#Research">Learn more <span class="linea-arrows-slim-right"></span></a>
                 </div>
               </div>
 
               <!-- Item 2 -->
               <div class="col-lg-4 col-md-6 mb-sm-50">
                 <div class="ft-item wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                  <span class="linea-basic-display"></span>
-                  <h4>Web Development</h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur elit adipisicing , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minimv</p>
-                  <a href="#">Learn more <span class="linea-arrows-slim-right"></span></a>
+                  <span class="fa fa-microchip"></span>
+                  <h4>Innovation</h4>
+                  <p>Content of Innovation goes here, quick points about innovation in the organization</p>
+                  <a href="services.php#innovation">Learn more <span class="linea-arrows-slim-right"></span></a>
                 </div>
               </div>
 
               <!-- Item 3 -->
               <div class="col-lg-4 col-md-6 mb-sm-50">
                 <div class="ft-item wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
-                  <span class="linea-basic-life-buoy"></span>
-                  <h4>25/7 Support</h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur elit adipisicing , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minimv</p>
-                  <a href="#">Learn more <span class="linea-arrows-slim-right"></span></a>
+                  <span class="fa fa-check"></span>
+                  <h4>Testing & Validation</h4>
+                  <p>Content of Testing & Validation goes here, quick points about Testing & Validation in the organization</p>
+                  <a href="services.php#testingandvalidation">Learn more <span class="linea-arrows-slim-right"></span></a>
                 </div>
               </div>
 
@@ -147,41 +146,6 @@ include('header.php');
           </section>
         </div><!-- / .gray-bg -->
 
-
-
-        <!-- ========== Circle Counters Minimal ========== -->
-
-        <div id="skillsCirclesMin" class="circles-counters-dark-bg">
-          <div class="container">
-            <div id="counters-min" class="row count-wrapper">
-              
-              <!-- Item 1 -->
-              <div class="col-sm-6 col-lg-3 circle-item wow zoomIn" data-wow-duration=".6s" data-wow-delay=".3s">
-                <div class="chart" data-percent="75"><span class="circle-icon linea-basic-gear"></span></div>
-                <span class="circle-text">Web Development</span>
-              </div>
-
-              <!-- Item 2 -->
-              <div class="col-sm-6 col-lg-3 circle-item wow zoomIn" data-wow-duration=".6s">
-                <div class="chart" data-percent="75"><span class="circle-icon linea-basic-display"></span></div>
-                <span class="circle-text">Web Design</span>
-              </div>
-
-              <!-- Item 3 -->
-              <div class="col-sm-6 col-lg-3 circle-item wow zoomIn" data-wow-duration=".6s">
-                <div class="chart" data-percent="75"><span class="circle-icon linea-basic-photo"></span></div>
-                <span class="circle-text">Photography</span>
-              </div>
-
-              <!-- Item 4 -->
-              <div class="col-sm-6 col-lg-3 circle-item wow zoomIn" data-wow-duration=".6s" data-wow-delay=".3s">
-                <div class="chart" data-percent="75"><span class="circle-icon linea-basic-star"></span></div>
-                <span class="circle-text">Marketing</span>
-              </div>
-
-            </div><!-- / .row -->
-          </div><!-- / .container -->
-        </div><!-- / .circles-counters -->
 
 
 
@@ -192,28 +156,28 @@ include('header.php');
 
               <header class="sec-heading ws-s">
                 <h2>Our work process</h2>
-                <span class="subheading">Lorem ipsum dolor sit amet, consectetur</span>
+                <span class="subheading">Research, Innovation and Testing & Validation</span>
               </header>
               
               <!-- Step 1 -->
               <div class="col-lg-4 col-md-6 mb-sm-100 ft-item wow fadeIn" data-wow-duration="1s">
                 <span class="ft-nbr">01</span>
                 <h4>Design</h4>
-                <p>Lariatur, excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est</p>
+                <p>Content of Design goes here, what you want the clients to know</p>
               </div>
 
               <!-- Step 2 -->
               <div class="col-lg-4 col-md-6 mb-sm-100 ft-item wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">
                 <span class="ft-nbr">02</span>
                 <h4>Develop</h4>
-                <p>Lariatur, excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est</p>
+                <p>Content of Develop goes here, what you want the clients to know</p>
               </div>
 
               <!-- Step 3 -->
               <div class="col-lg-4 col-md-6 ft-item wow fadeIn" data-wow-duration="1s" data-wow-delay=".6s">
                 <span class="ft-nbr">03</span>
-                <h4>Deploy</h4>
-                <p>Lariatur, excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est</p>
+                <h4>Testing & Deploy</h4>
+                <p>Content of Deploy goes here, what you want the clients to know</p>
               </div>
 
             </div><!-- / .row -->
@@ -239,9 +203,9 @@ include('header.php');
               <div class="bg-overlay">
 
                 <div class="content-wrapper">
-                  <a href="pages/portfolio/portfolio-single-1.html"><h3>Branding Identity</h3></a>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,<br> sed do eiusmod tempor incididunt ut labore</p>
-                  <a href="pages/portfolio/portfolio-single-1.html" class="btn-ghost btn-ghost-light ft-button">View Project</a>
+                  <a href="ismatic-portfolio.php"><h3>Project Name</h3></a>
+                  <p>Description about the project,<br> more content with few words</p>
+                  <a href="ismatic-portfolio.php" class="btn-ghost btn-ghost-light ft-button">More Projects</a>
                 </div>
 
               </div><!-- / .bg-overlay -->
@@ -252,9 +216,9 @@ include('header.php');
               <div class="bg-overlay">
 
                 <div class="content-wrapper">
-                  <a href="pages/portfolio/portfolio-single-1.html"><h3>Photography</h3></a>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,<br> sed do eiusmod tempor incididunt ut labore</p>
-                  <a href="pages/portfolio/portfolio-single-1.html" class="btn-ghost btn-ghost-light ft-button">View Project</a>
+                  <a href="ismatic-portfolio.php"><h3>Project Name</h3></a>
+                  <p>Description about the project,<br> more content with few words</p>
+                  <a href="ismatic-portfolio.php" class="btn-ghost btn-ghost-light ft-button">More Projects</a>
                 </div>
 
               </div><!-- / .bg-overlay -->
@@ -279,9 +243,9 @@ include('header.php');
           <div class="row">
             <ul id="pfolio-filters" class="portfolio-filters">
               <li class="active"><a href="#" data-filter="*">All</a></li>
-              <li><a href="#" data-filter=".webdesing">Webdesign</a></li>
-              <li><a href="#" data-filter=".print">Print</a></li>
-              <li><a href="#" data-filter=".photo">Photography</a></li>
+              <li><a href="#" data-filter=".webdesing">Research</a></li>
+              <li><a href="#" data-filter=".print">On-going Projects</a></li>
+              <li><a href="#" data-filter=".photo">Completed Projects</a></li>
             </ul>
           </div>
 
@@ -298,7 +262,7 @@ include('header.php');
                       <h6 class="subheading">Sub heading for the project</h6>
                     </div>
                   </div>
-                  <a href="pages/portfolio/portfolio-single-1.html" class="open-btn"><i class="fa fa-expand"></i></a>
+                  <a href="ismatic-portfolio.php" class="open-btn"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
 
@@ -312,7 +276,7 @@ include('header.php');
                       <h6 class="subheading">Sub heading for the project</h6>
                     </div>
                   </div>
-                  <a href="pages/portfolio/portfolio-single-1.html" class="open-btn"><i class="fa fa-expand"></i></a>
+                  <a href="ismatic-portfolio.php" class="open-btn"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
 
@@ -326,7 +290,7 @@ include('header.php');
                       <h6 class="subheading">Sub heading for the project</h6>
                     </div>
                   </div>
-                  <a href="pages/portfolio/portfolio-single-1.html" class="open-btn"><i class="fa fa-expand"></i></a>
+                  <a href="ismatic-portfolio.php" class="open-btn"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
 
@@ -340,7 +304,7 @@ include('header.php');
                       <h6 class="subheading">Sub heading for the project</h6>
                     </div>
                   </div>
-                  <a href="pages/portfolio/portfolio-single-1.html" class="open-btn"><i class="fa fa-expand"></i></a>
+                  <a href="ismatic-portfolio.php" class="open-btn"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
 
@@ -354,7 +318,7 @@ include('header.php');
                       <h6 class="subheading">Sub heading for the project</h6>
                     </div>
                   </div>
-                  <a href="pages/portfolio/portfolio-single-1.html" class="open-btn"><i class="fa fa-expand"></i></a>
+                  <a href="ismatic-portfolio.php" class="open-btn"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
 
@@ -368,7 +332,7 @@ include('header.php');
                       <h6 class="subheading">Sub heading for the project</h6>
                     </div>
                   </div>
-                  <a href="pages/portfolio/portfolio-single-1.html" class="open-btn"><i class="fa fa-expand"></i></a>
+                  <a href="ismatic-portfolio.php" class="open-btn"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
 
@@ -382,7 +346,7 @@ include('header.php');
                       <h6 class="subheading">Sub heading for the project</h6>
                     </div>
                   </div>
-                  <a href="pages/portfolio/portfolio-single-1.html" class="open-btn"><i class="fa fa-expand"></i></a>
+                  <a href="ismatic-portfolio.php" class="open-btn"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
 
@@ -396,7 +360,7 @@ include('header.php');
                       <h6 class="subheading">Sub heading for the project</h6>
                     </div>
                   </div>
-                  <a href="pages/portfolio/portfolio-single-1.html" class="open-btn"><i class="fa fa-expand"></i></a>
+                  <a href="ismatic-portfolio.php" class="open-btn"><i class="fa fa-expand"></i></a>
                 </div>
               </div><!-- / .portfolio-item -->
 
@@ -518,7 +482,7 @@ include('header.php');
                 <div class="blog-post wow fadeIn" data-wow-duration="2s">
 
                   <!-- Image -->
-                  <a href="pages/blog/blog-post.html" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
+                  <a href="ismatic-blog.php" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
 
                   <div class="bp-content">
                     
@@ -535,13 +499,13 @@ include('header.php');
                     </div><!-- / .meta -->
 
                     <!-- Post Title -->
-                    <a href="pages/blog/blog-post.html" class="post-title"><h4>Blog Post Title</h4></a>
+                    <a href="ismatic-blog.php" class="post-title"><h4>Blog Post Title</h4></a>
 
                     <!-- Blurb -->
                     <p>Lorem ipsum dolor sit amet, tempor consectetur adipisicing elit, sed do eiusmod incididunt ut labore et dolore magna aliqua. Ut enim ad ...</p>
 
                     <!-- Link -->
-                    <a href="pages/blog/blog-post.html" class="btn btn-small">Read More</a>
+                    <a href="ismatic-blog.php" class="btn btn-small">Read More</a>
 
                   </div><!-- / .bp-content -->
 
@@ -554,7 +518,7 @@ include('header.php');
                 <div class="blog-post wow fadeIn" data-wow-duration="2s" data-wow-delay=".3s">
 
                   <!-- Image -->
-                  <a href="pages/blog/blog-post.html" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
+                  <a href="ismatic-blog.php" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
 
                   <div class="bp-content">
                     
@@ -571,13 +535,13 @@ include('header.php');
                     </div><!-- / .meta -->
 
                     <!-- Post Title -->
-                    <a href="pages/blog/blog-post.html" class="post-title"><h4>Blog Post Title</h4></a>
+                    <a href="ismatic-blog.php" class="post-title"><h4>Blog Post Title</h4></a>
 
                     <!-- Blurb -->
                     <p>Lorem ipsum dolor sit amet, tempor consectetur adipisicing elit, sed do eiusmod incididunt ut labore et dolore magna aliqua. Ut enim ad ...</p>
 
                     <!-- Link -->
-                    <a href="pages/blog/blog-post.html" class="btn btn-small">Read More</a>
+                    <a href="ismatic-blog.php" class="btn btn-small">Read More</a>
 
                   </div><!-- / .bp-content -->
 
@@ -590,7 +554,7 @@ include('header.php');
                 <div class="blog-post wow fadeIn" data-wow-duration="2s" data-wow-delay=".6s">
 
                   <!-- Image -->
-                  <a href="pages/blog/blog-post.html" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
+                  <a href="ismatic-blog.php" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
 
                   <div class="bp-content">
                     
@@ -607,13 +571,13 @@ include('header.php');
                     </div><!-- / .meta -->
 
                     <!-- Post Title -->
-                    <a href="pages/blog/blog-post.html" class="post-title"><h4>Blog Post Title</h4></a>
+                    <a href="ismatic-blog.php" class="post-title"><h4>Blog Post Title</h4></a>
 
                     <!-- Blurb -->
                     <p>Lorem ipsum dolor sit amet, tempor consectetur adipisicing elit, sed do eiusmod incididunt ut labore et dolore magna aliqua. Ut enim ad ...</p>
 
                     <!-- Link -->
-                    <a href="pages/blog/blog-post.html" class="btn btn-small">Read More</a>
+                    <a href="ismatic-blog.php" class="btn btn-small">Read More</a>
 
                   </div><!-- / .bp-content -->
 
