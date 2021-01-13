@@ -3944,6 +3944,22 @@ fieldset[disabled] .form-control:hover {
           transition: background-size 0.3s;
 }
 
+.ft-hover-item .ft-3 {
+  background: #ccc url('../../wall/engineroom.jpg');
+  background-size: 100%;
+  background-position: 50%;
+  -webkit-transition: background-size 0.3s;
+          transition: background-size 0.3s;
+}
+
+.ft-hover-item .ft-4 {
+  background: #ccc url('../../wall/nailing.jpg');
+  background-size: 100%;
+  background-position: 50%;
+  -webkit-transition: background-size 0.3s;
+          transition: background-size 0.3s;
+}
+
 .ft-hover-item .ft-1 .bg-overlay, .ft-hover-item .ft-2 .bg-overlay {
   content: '';
   position: absolute;
