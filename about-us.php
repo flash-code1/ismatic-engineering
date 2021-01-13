@@ -16,8 +16,8 @@ include('header.php');
                 <div class="hero-content-wrapper">
                   <div class="hero-content">
                     
-                    <h1 class="hero-lead wow fadeInUp" data-wow-duration="2s">Reach the top</h1>
-                    <h4 class="h-alt hero-subheading wow fadeIn" data-wow-delay=".5s" data-wow-duration="1.5s">Multipage &amp; Onepage HTML5 Templates</h4>
+                    <h1 class="hero-lead wow fadeInUp" data-wow-duration="2s">Ismatic Engineering</h1>
+                    <h4 class="h-alt hero-subheading wow fadeIn" data-wow-delay=".5s" data-wow-duration="1.5s">Engineering Design &amp; Development</h4>
                     <a href="#services" class="btn btn-light wow fadeIn" data-wow-delay=".7s" data-wow-duration="2s">Learn More</a>
 
                   </div>
@@ -36,8 +36,8 @@ include('header.php');
                 <div class="hero-content-wrapper">
                   <div class="hero-content">
                     
-                    <h4 class="h-alt hero-subheading wow fadeInUp">Webdesing &amp; Development</h4>
-                    <h1 class="hero-lead">Creative Agency</h1>
+                    <h4 class="h-alt hero-subheading wow fadeInUp"> Testing &amp; Validation</h4>
+                    <h1 class="hero-lead">Ismatic Engineering</h1>
                     <a href="#services" class="btn btn-light wow fadeInDown">Learn More</a>
 
                   </div>
@@ -106,12 +106,12 @@ include('header.php');
                   <!-- Item 3 -->
                   <li>
                     <span class="linea-basic-joypad ft-icon"></span>
-                    <h5>Gaming</h5>
+                    <h5>Artificial Intelligence</h5>
                     <h6 class="h-alt">Lorem Ipsum Dolor</h6>
 
                     <div class="hover-content">
                       <span class="linea-basic-joypad ft-icon"></span>
-                      <span class="ft-heading">Gaming</span>
+                      <span class="ft-heading">--</span>
                       <p>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
                       </p>
@@ -122,76 +122,12 @@ include('header.php');
                   <!-- Item 4 -->
                   <li>
                     <span class="linea-basic-message-multiple ft-icon"></span>
-                    <h5>Chat</h5>
+                    <h5>More Content</h5>
                     <h6 class="h-alt">Lorem Ipsum Dolor</h6>
 
                     <div class="hover-content">
                       <span class="linea-basic-message-multiple ft-icon"></span>
                       <span class="ft-heading">Chat</span>
-                      <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                      </p>
-                      <a href="#" class="link-btn">Learn More</a>
-                    </div><!-- / .hover-content -->
-                  </li>
-
-                  <!-- Item 5 -->
-                  <li>
-                    <span class="linea-basic-keyboard ft-icon"></span>
-                    <h5>Code</h5>
-                    <h6 class="h-alt">Lorem Ipsum Dolor</h6>
-
-                    <div class="hover-content">
-                      <span class="linea-basic-keyboard ft-icon"></span>
-                      <span class="ft-heading">Code</span>
-                      <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                      </p>
-                      <a href="#" class="link-btn">Learn More</a>
-                    </div><!-- / .hover-content -->
-                  </li>
-
-                  <!-- Item 6 -->
-                  <li>
-                    <span class="linea-basic-cup ft-icon"></span>
-                    <h5>Awards</h5>
-                    <h6 class="h-alt">Lorem Ipsum Dolor</h6>
-
-                    <div class="hover-content">
-                      <span class="linea-basic-cup ft-icon"></span>
-                      <span class="ft-heading">Awards</span>
-                      <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                      </p>
-                      <a href="#" class="link-btn">Learn More</a>
-                    </div><!-- / .hover-content -->
-                  </li>
-
-                  <!-- Item 7 -->
-                  <li>
-                    <span class="linea-basic-world ft-icon"></span>
-                    <h5>Global</h5>
-                    <h6 class="h-alt">Lorem Ipsum Dolor</h6>
-
-                    <div class="hover-content">
-                      <span class="linea-basic-world ft-icon"></span>
-                      <span class="ft-heading">Global</span>
-                      <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                      </p>
-                      <a href="#" class="link-btn">Learn More</a>
-                    </div><!-- / .hover-content -->
-                  </li>
-
-                  <!-- Item 8 -->
-                  <li>
-                    <span class="linea-basic-server2 ft-icon"></span>
-                    <h5>Cake</h5>
-                    <h6 class="h-alt">Lorem Ipsum Dolor</h6>
-
-                    <div class="hover-content">
-                      <span class="linea-basic-server2 ft-icon"></span>
-                      <span class="ft-heading">Cake</span>
                       <p>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
                       </p>
@@ -235,7 +171,7 @@ include('header.php');
 
                   <!-- Info -->
                   <div class="t-info">
-                    <h4 class="t-name">Philip Lee</h4>
+                    <h4 class="t-name">Dr Ismail Jimoh Abubakar</h4>
                     <span class="t-role">CEO &amp; Founder</span>
                     <ul class="social-links">
                       <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -267,7 +203,7 @@ include('header.php');
                   <!-- Info -->
                   <div class="t-info">
                     <h4 class="t-name">Carol Greene</h4>
-                    <span class="t-role">Art Director</span>
+                    <span class="t-role">CTO</span>
                     <ul style="align-self: center;" class="social-links">
                       <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                       <li><a href="#"><i class="fa fa-twitter"></i></a></li>

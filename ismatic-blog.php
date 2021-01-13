@@ -18,7 +18,6 @@ include('header.php');
                 </div>
                 <ol class="col-sm-6 text-right breadcrumb">
                   <li><a href="#">Home</a></li>
-                  <li><a href="#">Elements</a></li>
                   <li class="active">Blog</li>
                 </ol>
 
@@ -38,7 +37,7 @@ include('header.php');
               <div class="blog-post">
 
                 <!-- Image -->
-                <a href="blog-post.html" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
+                <a href="#" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
 
                 <div class="bp-content">
                   
@@ -55,13 +54,13 @@ include('header.php');
                   </div><!-- / .meta -->
 
                   <!-- Post Title -->
-                  <a href="blog-post.html" class="post-title"><h4>Blog Post Title</h4></a>
+                  <a href="#" class="post-title"><h4>Blog Post Title</h4></a>
 
                   <!-- Blurb -->
                   <p>Lorem ipsum dolor sit amet, tempor consectetur adipisicing elit, sed do eiusmod incididunt ut labore et dolore magna aliqua. Ut enim ad ...</p>
 
                   <!-- Link -->
-                  <a href="blog-post.html" class="btn btn-small">Read More</a>
+                  <a href="#" class="btn btn-small">Read More</a>
 
                 </div><!-- / .bp-content -->
 
@@ -74,7 +73,7 @@ include('header.php');
               <div class="blog-post">
 
                 <!-- Image -->
-                <a href="blog-post.html" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
+                <a href="#" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
 
                 <div class="bp-content">
                   
@@ -91,13 +90,13 @@ include('header.php');
                   </div><!-- / .meta -->
 
                   <!-- Post Title -->
-                  <a href="blog-post.html" class="post-title"><h4>Blog Post Title</h4></a>
+                  <a href="#" class="post-title"><h4>Blog Post Title</h4></a>
 
                   <!-- Blurb -->
                   <p>Lorem ipsum dolor sit amet, tempor consectetur adipisicing elit, sed do eiusmod incididunt ut labore et dolore magna aliqua. Ut enim ad ...</p>
 
                   <!-- Link -->
-                  <a href="blog-post.html" class="btn btn-small">Read More</a>
+                  <a href="#" class="btn btn-small">Read More</a>
 
                 </div><!-- / .bp-content -->
 
@@ -110,7 +109,7 @@ include('header.php');
               <div class="blog-post">
 
                 <!-- Image -->
-                <a href="blog-post.html" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
+                <a href="#" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
 
                 <div class="bp-content">
                   
@@ -127,13 +126,13 @@ include('header.php');
                   </div><!-- / .meta -->
 
                   <!-- Post Title -->
-                  <a href="blog-post.html" class="post-title"><h4>Blog Post Title</h4></a>
+                  <a href="#" class="post-title"><h4>Blog Post Title</h4></a>
 
                   <!-- Blurb -->
                   <p>Lorem ipsum dolor sit amet, tempor consectetur adipisicing elit, sed do eiusmod incididunt ut labore et dolore magna aliqua. Ut enim ad ...</p>
 
                   <!-- Link -->
-                  <a href="blog-post.html" class="btn btn-small">Read More</a>
+                  <a href="#" class="btn btn-small">Read More</a>
 
                 </div><!-- / .bp-content -->
 
@@ -146,7 +145,7 @@ include('header.php');
               <div class="blog-post">
 
                 <!-- Image -->
-                <a href="blog-post.html" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
+                <a href="#" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
 
                 <div class="bp-content">
                   
@@ -163,13 +162,13 @@ include('header.php');
                   </div><!-- / .meta -->
 
                   <!-- Post Title -->
-                  <a href="blog-post.html" class="post-title"><h4>Blog Post Title</h4></a>
+                  <a href="#" class="post-title"><h4>Blog Post Title</h4></a>
 
                   <!-- Blurb -->
                   <p>Lorem ipsum dolor sit amet, tempor consectetur adipisicing elit, sed do eiusmod incididunt ut labore et dolore magna aliqua. Ut enim ad ...</p>
 
                   <!-- Link -->
-                  <a href="blog-post.html" class="btn btn-small">Read More</a>
+                  <a href="#" class="btn btn-small">Read More</a>
 
                 </div><!-- / .bp-content -->
 
@@ -182,7 +181,7 @@ include('header.php');
               <div class="blog-post">
 
                 <!-- Image -->
-                <a href="blog-post.html" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
+                <a href="#" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
 
                 <div class="bp-content">
                   
@@ -199,13 +198,13 @@ include('header.php');
                   </div><!-- / .meta -->
 
                   <!-- Post Title -->
-                  <a href="blog-post.html" class="post-title"><h4>Blog Post Title</h4></a>
+                  <a href="#" class="post-title"><h4>Blog Post Title</h4></a>
 
                   <!-- Blurb -->
                   <p>Lorem ipsum dolor sit amet, tempor consectetur adipisicing elit, sed do eiusmod incididunt ut labore et dolore magna aliqua. Ut enim ad ...</p>
 
                   <!-- Link -->
-                  <a href="blog-post.html" class="btn btn-small">Read More</a>
+                  <a href="#" class="btn btn-small">Read More</a>
 
                 </div><!-- / .bp-content -->
 
@@ -218,7 +217,7 @@ include('header.php');
               <div class="blog-post">
 
                 <!-- Image -->
-                <a href="blog-post.html" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
+                <a href="#" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
 
                 <div class="bp-content">
                   
@@ -235,13 +234,13 @@ include('header.php');
                   </div><!-- / .meta -->
 
                   <!-- Post Title -->
-                  <a href="blog-post.html" class="post-title"><h4>Blog Post Title</h4></a>
+                  <a href="#" class="post-title"><h4>Blog Post Title</h4></a>
 
                   <!-- Blurb -->
                   <p>Lorem ipsum dolor sit amet, tempor consectetur adipisicing elit, sed do eiusmod incididunt ut labore et dolore magna aliqua. Ut enim ad ...</p>
 
                   <!-- Link -->
-                  <a href="blog-post.html" class="btn btn-small">Read More</a>
+                  <a href="#" class="btn btn-small">Read More</a>
 
                 </div><!-- / .bp-content -->
 
@@ -313,22 +312,22 @@ include('header.php');
 
               <!-- Item 1 -->
               <div class="widget-item">
-                <a href="#">Web Design - <span>15</span></a>
+                <a href="#">Engineering - <span>15</span></a>
               </div>
 
               <!-- Item 2 -->
               <div class="widget-item">
-                <a href="#">Graphic Design - <span>6</span></a>
+                <a href="#">Artificial Intelligence - <span>6</span></a>
               </div>
 
               <!-- Item 3 -->
               <div class="widget-item">
-                <a href="#">iOS Development - <span>12</span></a>
+                <a href="#">Programming - <span>12</span></a>
               </div>
 
               <!-- Item 4 -->
               <div class="widget-item">
-                <a href="#">Other - <span>3</span></a>
+                <a href="#">Human Machine Interface - <span>3</span></a>
               </div>
 
             </div><!-- / .categories-widget -->
@@ -338,14 +337,12 @@ include('header.php');
             <div class="col-md-3 mb-sm-100 tags-widget">
               <h5 class="header-widget">Tags</h5>
               <ul class="tag-list">
-                <li><a href="#">Photography</a></li>
-                <li><a href="#">Design</a></li>
-                <li><a href="#">Development</a></li>
-                <li><a href="#">PHP</a></li>
-                <li><a href="#">UI/UX</a></li>
-                <li><a href="#">Design</a></li>
-                <li><a href="#">HTML5</a></li>
-                <li><a href="#">CSS3</a></li>
+                <li><a href="#">Engineering</a></li>
+                <li><a href="#">Industry</a></li>
+                <li><a href="#">HMI</a></li>
+                <li><a href="#">Programming</a></li>
+                <li><a href="#">AI</a></li>
+                <li><a href="#">Robotics</a></li>
               </ul>
             </div><!-- / .tags-widget -->
 
