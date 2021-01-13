@@ -143,6 +143,9 @@
         <script src="assets/js/vendor/wow.min.js"></script>
         <script src="assets/js/vendor/jquery.ajaxchimp.js"></script>
         <script src="assets/js/vendor/animDots.js"></script>
+        <script src="assets/js/vendor/animated-heading.js"></script>
+        <script src="assets/js/vendor/jquery.mb.YTPlayer.min.js"></script>
+
 
         <!-- Google Maps -->
         <script src="assets/js/gmap.js"></script>
