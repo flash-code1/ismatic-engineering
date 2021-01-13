@@ -31,6 +31,77 @@ include('header.php');
 
 </div><!-- / .bg-overlay -->
 </div><!-- / .fs-video-hero -->
+<!-- Next Grid Straight to Services -->
+
+<!-- ========== Features - Layout 50/50 ========== -->
+
+<div class="container-fluid ft-layout-50">
+          <div class="row">
+            
+          <section id="Research">
+            <!-- Feature 1 -->
+            <div class="ft-item">
+              <div class="col-lg-6 ft-img-wrapper">
+                <img src="http://placehold.it/900x580" alt="Features Image">
+              </div>
+              <div class="col-lg-6 ft-content-wrapper">
+                <h5>Research</h5>
+                <h6 class="h-alt">Sub-heading content goes here</h6>
+                <p>Content on description about Research, explaining in details as part of services the company offer.</p>
+                <button class="btn-ghost">View More</button>
+              </div>
+            </div><!-- / .ft-item -->
+            
+            </section>
+          </div>
+          <br>
+            <br>
+            <br>
+            <br>
+          <div class="row">
+
+            
+
+            <section id="innovation">
+            <!-- Feature 2 -->
+            <div class="ft-item">
+              <div class="col-lg-6 ft-content-wrapper">
+                <h5>Innovation</h5>
+                <h6 class="h-alt">Sub-heading content goes here</h6>
+                <p>Content on description about Innovation, explaining in details as part of services the company offer.</p>
+                <button class="btn-ghost">View More</button>
+              </div>
+              <div class="col-lg-6 ft-img-wrapper">
+                <img src="http://placehold.it/900x580" alt="Features Image">
+              </div>
+            </div><!-- / .ft-item -->
+            </section>
+            
+          </div>
+          <br>
+            <br>
+            <br>
+            <br>
+
+          <div class="row">
+
+            <section id="testingandvalidation">
+            <!-- Feature 3 -->
+             <div class="ft-item">
+              <div class="col-lg-6 ft-img-wrapper">
+                <img src="http://placehold.it/900x580" alt="Features Image">
+              </div>
+              <div class="col-lg-6 ft-content-wrapper">
+                <h5>Testing & Validation</h5>
+                <h6 class="h-alt">Sub-heading content goes here</h6>
+                <p>Content on description about Research, explaining in details as part of services the company offer.</p>
+                <button class="btn-ghost">View More</button>
+              </div>
+            </div><!-- / .ft-item -->
+            </section>
+
+          </div><!-- / .row -->
+        </div><!-- / .ft-layout-50 -->
 <?php
 include('footer.php');
 ?>
