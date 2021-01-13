@@ -3969,7 +3969,7 @@ fieldset[disabled] .form-control:hover {
   height: 100%;
   background: rgba(17, 17, 17, 0.55);
   -webkit-transition: background 0.4s;
-          transition: background 0.4s;
+          transition: background 0.4s; 
 }
 
 .ft-hover-item .ft-2 {
