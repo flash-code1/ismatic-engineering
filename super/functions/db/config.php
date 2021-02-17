@@ -1,11 +1,20 @@
 <?php
 /* Database credentials. Assuming you are running MySQL
 server with default setting (user 'root' with no pssword) */
+
+// PRODUCTION
+// define('DB_SERVER', 'localhost');
+// define('DB_USERNAME', 'ismaticc_admin');
+// define('DB_PASSWORD', 'w&HXs(ZTeq}r');
+// define('DB_CHARSET', 'utf8');
+// define('DB_NAME', 'ismaticc_website');
+
+// DEV
 define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'bfslcom_apply');
 define('DB_PASSWORD', 'Apply633#@');
 define('DB_CHARSET', 'utf8');
-define('DB_NAME', 'bfslcom_bfsl');
+define('DB_NAME', 'ismaticc_website');
 // hello
 // test
 // define('DB_SERVER', 'localhost');

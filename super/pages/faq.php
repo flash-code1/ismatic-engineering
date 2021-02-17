@@ -74,7 +74,7 @@
                                             <?php }
                                                 }
                                              else {
-                                            echo "0 Rooms";
+                                            echo "0 Enquiries";
                                               }
                                              ?>
                                         </tbody>

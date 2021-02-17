@@ -5,7 +5,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>BFSL | Signup</title>
+    <title>Ismatic Engineering | Admin</title>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="../design/x2/assets/vendor/bootstrap/css/bootstrap.min.css">
     <link href="../design/x2/assets/vendor/fonts/circular-std/style.css" rel="stylesheet">
@@ -164,7 +164,7 @@ $randms = str_pad(rand(0, pow(10, $digits)-1), $digits, '0', STR_PAD_LEFT);
     <form class="splash-container" method="POST">
         <div class="card">
             <div class="card-header">
-                <h3 class="mb-1">BFSL</h3>
+                <h3 class="mb-1">Ismatic Admin Signup</h3>
                 <p>Please enter your user information.</p>
             </div>
             <div class="card-body">

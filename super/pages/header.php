@@ -43,7 +43,7 @@ if(!$_SESSION["email"] != ""){
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.17.1/moment.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.1.0/fullcalendar.min.js"></script>
-    <title>BFSL - Admin</title>
+    <title>Ismatic Engineering</title>
 </head>
 
 <body>
@@ -56,7 +56,7 @@ if(!$_SESSION["email"] != ""){
         <!-- ============================================================== -->
         <div class="dashboard-header">
             <nav class="navbar navbar-expand-lg bg-white fixed-top">
-                <a class="navbar-brand" href="dashboard.php" style="font-size: 12px;">BFSL ADMIN</a>
+                <a class="navbar-brand" href="dashboard.php" style="font-size: 12px;">Ismatic Engineering - Staff Area</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -91,7 +91,7 @@ if(!$_SESSION["email"] != ""){
                             </ul>
                         </li>
                         <li class="nav-item dropdown nav-user">
-                            <a class="nav-link nav-user-img" href="https://www.bfsl633.com" id="navbarDropdownMenuLink2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="https://firebasestorage.googleapis.com/v0/b/churaton-6e682.appspot.com/o/logo3.png?alt=media&token=d4b38801-90cc-4187-bb4e-84d752a9fdfb" alt="" class="user-avatar-md rounded-circle"></a>
+                            <a class="nav-link nav-user-img" href="https://www.ismaitc.co.uk" id="navbarDropdownMenuLink2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="../../wall/logo/ismatic2b.png" alt="" class="user-avatar-md rounded-circle"></a>
                             <div class="dropdown-menu dropdown-menu-right nav-user-dropdown" aria-labelledby="navbarDropdownMenuLink2">
                                 <div class="nav-user-info">
                                     <h5 class="mb-0 text-white nav-user-name"> <?php echo $username; ?> </h5>
@@ -147,14 +147,14 @@ if(!$_SESSION["email"] != ""){
                                     </ul>
                                 </div>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link <?php if ($avt == 'app') { echo 'active'; }?>" href="#" data-toggle="collapse" aria-expanded="false" data-target="#submenu-3" aria-controls="submenu-3"><i class="fas fa-fw fa-table"></i>Registration</a>
+                            <!-- <li class="nav-item">
+                                <a class="nav-link " href="#" data-toggle="collapse" aria-expanded="false" data-target="#submenu-3" aria-controls="submenu-3"><i class="fas fa-fw fa-table"></i>Registration</a>
                                 <div id="submenu-3" class="collapse submenu" style="">
                                     <ul class="nav flex-column">
                                         <li class="nav-item">
                                             <a class="nav-link" href="application.php">View Applicant</a>
                                         </li>
-                                        <!-- <li class="nav-item">
+                                        <<li class="nav-item">
                                             <a class="nav-link" href="#">Resturant</a>
                                         </li>
                                         <li class="nav-item">
@@ -162,10 +162,10 @@ if(!$_SESSION["email"] != ""){
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" href="#">Gym</a>
-                                        </li> -->
+                                        </li> 
                                     </ul>
                                 </div>
-                            </li>
+                            </li> -->
                             <li class="nav-divider">
                                 Inbox
                             </li>

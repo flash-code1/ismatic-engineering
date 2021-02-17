@@ -10,8 +10,8 @@ $gen_date = date('Y-m-d');
 $randms = str_pad(rand(0, pow(10, $rigits)-1), $rigits, '0', STR_PAD_LEFT);
 if (isset($_POST["title"]))
 {
-    $title = $_POST["title"];
-    $sub_title = $_POST["sub_title"];
+    $title = addslashes($_POST["title"]);
+    $sub_title = addslashes($_POST["sub_title"]);
     // img upload
     $temp1 = explode(".", $_FILES['chooseFile']['name']);
     $digits = 10;
@@ -22,7 +22,7 @@ if (isset($_POST["title"]))
     } else {
       $msg = "Image Failed";
     }
-    $body = $_POST["descript"];
+    $body = addslashes($_POST["descript"]);
     // now the DB
 
     $post_invent = mysqli_query($connection, "INSERT INTO `blog` (`user_id`, `heading`, `sub_heading`, `content`, `date`, `comment`, `img`) VALUES ('{$user_id}', '{$title}', '{$sub_title}', '{$body}', '{$gen_date}', '0', '{$sig_passport_one}')");

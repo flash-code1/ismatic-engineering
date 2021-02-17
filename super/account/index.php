@@ -188,7 +188,7 @@ $outxxx = "";
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>BFSL | Login</title>
+    <title>Ismatic Egineering | Login</title>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="../design/x2/assets/vendor/bootstrap/css/bootstrap.min.css">
     <link href="../design/x2/assets/vendor/fonts/circular-std/style.css" rel="stylesheet">
@@ -280,7 +280,7 @@ $outxxx = "";
     <!-- ============================================================== -->
     <div class="splash-container">
         <div class="card ">
-            <div class="card-header text-center"><a href="#"><img class="logo-img" height="50" width="50" src="../../image/logo/logo3.png" alt="logo"></a><span class="splash-description">BFSL Admin</span></div>
+            <div class="card-header text-center"><a href="#"><img class="logo-img" height="100" width="100" src="../../wall/logo/ismatic2b.png" alt="logo"></a><span class="splash-description">Ismatic Engineering - Staff Login</span></div>
             <div class="card-body">
             <div><?php echo $err;?></div>
                 <form method="post" accept-charset="UTF-8">
