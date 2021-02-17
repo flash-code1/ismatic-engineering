@@ -45,9 +45,9 @@ include('header.php');
                 <img src="https://cdn.pixabay.com/photo/2016/11/29/09/32/concept-1868728_960_720.jpg" alt="Features Image">
               </div>
               <div class="col-lg-6 ft-content-wrapper">
-                <h5>Research</h5>
-                <h6 class="h-alt">Sub-heading content goes here</h6>
-                <p>Content on description about Research, explaining in details as part of services the company offer.</p>
+                <h5>Research Engineering</h5>
+                <h6 class="h-alt">Planning Phase</h6>
+                <p>A Technology research company for agriculture and food processing.</p>
                 <button class="btn-ghost">View More</button>
               </div>
             </div><!-- / .ft-item -->
@@ -67,8 +67,8 @@ include('header.php');
             <div class="ft-item">
               <div class="col-lg-6 ft-content-wrapper">
                 <h5>Innovation</h5>
-                <h6 class="h-alt">Sub-heading content goes here</h6>
-                <p>Content on description about Innovation, explaining in details as part of services the company offer.</p>
+                <h6 class="h-alt">AI, IoT - Scalability</h6>
+                <p>We play a key role in revolutionising Africa’s food processing industry through modern technology.</p>
                 <button class="btn-ghost">View More</button>
               </div>
               <div class="col-lg-6 ft-img-wrapper">
@@ -93,8 +93,8 @@ include('header.php');
               </div>
               <div class="col-lg-6 ft-content-wrapper">
                 <h5>Testing & Validation</h5>
-                <h6 class="h-alt">Sub-heading content goes here</h6>
-                <p>Content on description about Research, explaining in details as part of services the company offer.</p>
+                <h6 class="h-alt">Implementation</h6>
+                <p>We embrace a culture of continuous improvements, leading to innovation and unrivalled expertise</p>
                 <button class="btn-ghost">View More</button>
               </div>
             </div><!-- / .ft-item -->

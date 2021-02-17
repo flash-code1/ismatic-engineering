@@ -117,7 +117,7 @@ include('header.php');
                 <div class="ft-item wow fadeInUp" data-wow-duration="1s">
                   <span class="fa fa-search"></span>
                   <h4>Research</h4>
-                  <p>Content of Research goes here, quick points about research in the organization</p>
+                  <p>A Technology research company for agriculture and food processing.</p>
                   <a href="services.php#Research">Learn more <span class="linea-arrows-slim-right"></span></a>
                 </div>
               </div>
@@ -127,7 +127,7 @@ include('header.php');
                 <div class="ft-item wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
                   <span class="fa fa-microchip"></span>
                   <h4>Innovation</h4>
-                  <p>Content of Innovation goes here, quick points about innovation in the organization</p>
+                  <p> We play a key role in revolutionising Africa’s food processing industry through modern technology.</p>
                   <a href="services.php#innovation">Learn more <span class="linea-arrows-slim-right"></span></a>
                 </div>
               </div>
@@ -137,7 +137,7 @@ include('header.php');
                 <div class="ft-item wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
                   <span class="fa fa-check"></span>
                   <h4>Testing & Validation</h4>
-                  <p>Content of Testing & Validation goes here, quick points about Testing & Validation in the organization</p>
+                  <p>We embrace a culture of continuous improvements, leading to innovation and unrivalled expertise</p>
                   <a href="services.php#testingandvalidation">Learn more <span class="linea-arrows-slim-right"></span></a>
                 </div>
               </div>
@@ -162,22 +162,22 @@ include('header.php');
               <!-- Step 1 -->
               <div class="col-lg-4 col-md-6 mb-sm-100 ft-item wow fadeIn" data-wow-duration="1s">
                 <span class="ft-nbr">01</span>
-                <h4>Design</h4>
-                <p>Content of Design goes here, what you want the clients to know</p>
+                <h4>Research & Design</h4>
+                <!-- <p>Content of Design goes here, what you want the clients to know</p> -->
               </div>
 
               <!-- Step 2 -->
               <div class="col-lg-4 col-md-6 mb-sm-100 ft-item wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">
                 <span class="ft-nbr">02</span>
                 <h4>Develop</h4>
-                <p>Content of Develop goes here, what you want the clients to know</p>
+                <!-- <p>Content of Develop goes here, what you want the clients to know</p> -->
               </div>
 
               <!-- Step 3 -->
               <div class="col-lg-4 col-md-6 ft-item wow fadeIn" data-wow-duration="1s" data-wow-delay=".6s">
                 <span class="ft-nbr">03</span>
                 <h4>Testing & Deploy</h4>
-                <p>Content of Deploy goes here, what you want the clients to know</p>
+                <!-- <p>Content of Deploy goes here, what you want the clients to know</p> -->
               </div>
 
             </div><!-- / .row -->
@@ -231,15 +231,14 @@ include('header.php');
 
         <!-- ========== Portfolio Full Width - 4 Columns ========== -->
 
-        <section class="container-fluid portfolio-layout portfolio-columns-fw">
+        <!-- <section class="container-fluid portfolio-layout portfolio-columns-fw">
           <div class="row">
             <header class="sec-heading">
               <h2>Some of our project</h2>
               <span class="subheading">Lorem ipsum dolor sit amet consectetur adipisicing</span>
             </header>
-          </div><!-- / .row -->
-          
-          <!-- Filters -->
+          </div>
+
           <div class="row">
             <ul id="pfolio-filters" class="portfolio-filters">
               <li class="active"><a href="#" data-filter="*">All</a></li>
@@ -252,7 +251,6 @@ include('header.php');
           <div class="row">
             <div id="pfolio">
 
-              <!-- Item 1 -->
               <div class="col-md-3 portfolio-item print">
                 <div class="p-wrapper hover-light">
                   <img src="http://placehold.it/990x650/aaa/ccc" alt="Project Example">
@@ -264,9 +262,8 @@ include('header.php');
                   </div>
                   <a href="ismatic-portfolio.php" class="open-btn"><i class="fa fa-expand"></i></a>
                 </div>
-              </div><!-- / .portfolio-item -->
+              </div>
 
-              <!-- Item 2 -->
               <div class="col-md-3 portfolio-item webdesing photo">
                 <div class="p-wrapper hover-light">
                   <img src="http://placehold.it/990x650" alt="Project Example">
@@ -278,9 +275,8 @@ include('header.php');
                   </div>
                   <a href="ismatic-portfolio.php" class="open-btn"><i class="fa fa-expand"></i></a>
                 </div>
-              </div><!-- / .portfolio-item -->
+              </div>
 
-              <!-- Item 3 -->
               <div class="col-md-3 portfolio-item photo print">
                 <div class="p-wrapper hover-light">
                   <img src="http://placehold.it/990x650/aaa/ccc" alt="Project Example">
@@ -292,9 +288,8 @@ include('header.php');
                   </div>
                   <a href="ismatic-portfolio.php" class="open-btn"><i class="fa fa-expand"></i></a>
                 </div>
-              </div><!-- / .portfolio-item -->
+              </div>
 
-              <!-- Item 4 -->
               <div class="col-md-3 portfolio-item webdesing print">
                 <div class="p-wrapper hover-light">
                   <img src="http://placehold.it/990x650" alt="Project Example">
@@ -306,9 +301,8 @@ include('header.php');
                   </div>
                   <a href="ismatic-portfolio.php" class="open-btn"><i class="fa fa-expand"></i></a>
                 </div>
-              </div><!-- / .portfolio-item -->
+              </div>
 
-              <!-- Item 5 -->
               <div class="col-md-3 portfolio-item webdesing print">
                 <div class="p-wrapper hover-light">
                   <img src="http://placehold.it/990x650" alt="Project Example">
@@ -320,9 +314,8 @@ include('header.php');
                   </div>
                   <a href="ismatic-portfolio.php" class="open-btn"><i class="fa fa-expand"></i></a>
                 </div>
-              </div><!-- / .portfolio-item -->
+              </div>
 
-              <!-- Item 6 -->
               <div class="col-md-3 portfolio-item photo print webdesing">
                 <div class="p-wrapper hover-light">
                   <img src="http://placehold.it/990x650/aaa/ccc" alt="Project Example">
@@ -334,9 +327,7 @@ include('header.php');
                   </div>
                   <a href="ismatic-portfolio.php" class="open-btn"><i class="fa fa-expand"></i></a>
                 </div>
-              </div><!-- / .portfolio-item -->
-
-              <!-- Item 7 -->
+              </div>
               <div class="col-md-3 portfolio-item photo">
                 <div class="p-wrapper hover-light">
                   <img src="http://placehold.it/990x650" alt="Project Example">
@@ -348,9 +339,8 @@ include('header.php');
                   </div>
                   <a href="ismatic-portfolio.php" class="open-btn"><i class="fa fa-expand"></i></a>
                 </div>
-              </div><!-- / .portfolio-item -->
+              </div>
 
-              <!-- Item 8 -->
               <div class="col-md-3 portfolio-item photo">
                 <div class="p-wrapper hover-light">
                   <img src="http://placehold.it/990x650/aaa/ccc" alt="Project Example">
@@ -362,11 +352,12 @@ include('header.php');
                   </div>
                   <a href="ismatic-portfolio.php" class="open-btn"><i class="fa fa-expand"></i></a>
                 </div>
-              </div><!-- / .portfolio-item -->
+              </div>
 
-            </div><!-- / #pfolio -->
-          </div><!-- / .row -->
-        </section><!-- / .portfolio-columns-fw -->
+            </div>
+          </div>
+        </section> -->
+        <!-- / .portfolio-columns-fw -->
 
 
 
@@ -402,7 +393,7 @@ include('header.php');
                 <div class="t-item wow fadeIn" data-wow-duration="1s">
                   <img src="assets/images/avatar-placeholder.png" alt="Testimonial">
                   <blockquote>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae</p>
+                    <p>Thank you for your service, The pandemic has really caused alot but ISMATIC helped fight through during hard times when my business faced terrible breakdown</p>
                     <footer>
                       <cite>by Julian Schmitz<span>Google</span></cite>
                     </footer>
@@ -416,7 +407,7 @@ include('header.php');
                 <div class="t-item wow fadeIn"  data-wow-duration="1s" data-wow-delay=".3s">
                   <img src="assets/images/avatar-placeholder.png" alt="Testimonial">
                   <blockquote>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae</p>
+                    <p>Automation on my business has helped improve workflow and gave me better insight to my business perfomance, Thank you ismatic engineering.</p>
                     <footer>
                       <cite>by Cecilia Acosta<span>Apple</span></cite>
                     </footer>
@@ -430,9 +421,9 @@ include('header.php');
                 <div class="t-item wow fadeIn" data-wow-duration="1s" data-wow-delay=".6s">
                   <img src="assets/images/avatar-placeholder.png" alt="Testimonial">
                   <blockquote>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae</p>
+                    <p>You the Best</p>
                     <footer>
-                      <cite>by Gerald Pena<span>Facebook</span></cite>
+                      <cite>by Gerald Pena<span>W a Scott Agricultural Contractor</span></cite>
                     </footer>
                   </blockquote>
                   <span class="et-quote t-icon"></span>
@@ -478,111 +469,46 @@ include('header.php');
 
               
               <!-- Blog Post 1 -->
-              <div class="col-lg-4 col-md-6 mb-sm-50">
-                <div class="blog-post wow fadeIn" data-wow-duration="2s">
+              <?php 
+                include("super/functions/db/connect.php");
+                $select_blog = mysqli_query($connection, "SELECT * FROM blog ORDER BY id DESC LIMIT 4");
+                while ($row = mysqli_fetch_array($select_blog)) {
+                  ?>
+            <div class="col-lg-4 col-md-6 mb-sm-50 ws-s">
+              <div class="blog-post">
 
-                  <!-- Image -->
-                  <a href="ismatic-blog.php" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
+                <!-- Image -->
+                <a href="#" class="post-img"><img src="super/functions/blog/<?php echo $row["img"];?>" width="990" height="715" alt="Blog Post 1"></a>
 
-                  <div class="bp-content">
-                    
-                    <!-- Meta data -->
-                    <div class="post-meta">
-                      <a href="#" class="post-date">
-                        <i class="fa fa-calendar-o"></i>
-                        <span>August 01.2015</span>
-                      </a>
-                      <a href="#" class="post-comments">
-                        <i class="fa fa-comments-o"></i>
-                        <span>12</span>
-                      </a>
-                    </div><!-- / .meta -->
+                <div class="bp-content">
+                  
+                  <!-- Meta data -->
+                  <div class="post-meta">
+                    <a href="#" class="post-date">
+                      <i class="fa fa-calendar-o"></i>
+                      <span><?php echo $row["date"];?></span>
+                    </a>
+                    <!-- <a href="#" class="post-comments">
+                      <i class="fa fa-comments-o"></i>
+                      <span>12</span>
+                    </a> -->
+                  </div><!-- / .meta -->
 
-                    <!-- Post Title -->
-                    <a href="ismatic-blog.php" class="post-title"><h4>Blog Post Title</h4></a>
+                  <!-- Post Title -->
+                  <a href="#" class="post-title"><h4><?php echo $row["heading"];?></h4></a>
+                    <p><?php echo $row["sub_heading"]; ?></p>
 
-                    <!-- Blurb -->
-                    <p>Lorem ipsum dolor sit amet, tempor consectetur adipisicing elit, sed do eiusmod incididunt ut labore et dolore magna aliqua. Ut enim ad ...</p>
+                  <!-- Blurb -->
+                  <!-- Link -->
+                  <a href="ismatic-blog.php" class="btn btn-small">Read More</a>
 
-                    <!-- Link -->
-                    <a href="ismatic-blog.php" class="btn btn-small">Read More</a>
+                </div><!-- / .bp-content -->
 
-                  </div><!-- / .bp-content -->
-
-                </div><!-- / .blog-post -->
-              </div><!-- / .col-lg-4 -->
-
-
-              <!-- Blog Post 2 -->
-              <div class="col-lg-4 col-md-6 mb-sm-50">
-                <div class="blog-post wow fadeIn" data-wow-duration="2s" data-wow-delay=".3s">
-
-                  <!-- Image -->
-                  <a href="ismatic-blog.php" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
-
-                  <div class="bp-content">
-                    
-                    <!-- Meta data -->
-                    <div class="post-meta">
-                      <a href="#" class="post-date">
-                        <i class="fa fa-calendar-o"></i>
-                        <span>August 01.2015</span>
-                      </a>
-                      <a href="#" class="post-comments">
-                        <i class="fa fa-comments-o"></i>
-                        <span>12</span>
-                      </a>
-                    </div><!-- / .meta -->
-
-                    <!-- Post Title -->
-                    <a href="ismatic-blog.php" class="post-title"><h4>Blog Post Title</h4></a>
-
-                    <!-- Blurb -->
-                    <p>Lorem ipsum dolor sit amet, tempor consectetur adipisicing elit, sed do eiusmod incididunt ut labore et dolore magna aliqua. Ut enim ad ...</p>
-
-                    <!-- Link -->
-                    <a href="ismatic-blog.php" class="btn btn-small">Read More</a>
-
-                  </div><!-- / .bp-content -->
-
-                </div><!-- / .blog-post -->
-              </div><!-- / .col-lg-4 -->
-
-              
-              <!-- Blog Post 3 -->
-              <div class="col-lg-4 col-md-6">
-                <div class="blog-post wow fadeIn" data-wow-duration="2s" data-wow-delay=".6s">
-
-                  <!-- Image -->
-                  <a href="ismatic-blog.php" class="post-img"><img src="http://placehold.it/990x715" alt="Blog Post 1"></a>
-
-                  <div class="bp-content">
-                    
-                    <!-- Meta data -->
-                    <div class="post-meta">
-                      <a href="#" class="post-date">
-                        <i class="fa fa-calendar-o"></i>
-                        <span>August 01.2015</span>
-                      </a>
-                      <a href="#" class="post-comments">
-                        <i class="fa fa-comments-o"></i>
-                        <span>12</span>
-                      </a>
-                    </div><!-- / .meta -->
-
-                    <!-- Post Title -->
-                    <a href="ismatic-blog.php" class="post-title"><h4>Blog Post Title</h4></a>
-
-                    <!-- Blurb -->
-                    <p>Lorem ipsum dolor sit amet, tempor consectetur adipisicing elit, sed do eiusmod incididunt ut labore et dolore magna aliqua. Ut enim ad ...</p>
-
-                    <!-- Link -->
-                    <a href="ismatic-blog.php" class="btn btn-small">Read More</a>
-
-                  </div><!-- / .bp-content -->
-
-                </div><!-- / .blog-post -->
-              </div><!-- / .col-lg-4 -->
+              </div><!-- / .blog-post -->
+            </div><!-- / .col-lg-4 -->
+            <?php
+                }
+                ?>
 
 
             </div><!-- / .row -->

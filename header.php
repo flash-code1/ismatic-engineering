@@ -110,15 +110,15 @@ Engineering related scientific and technical consulting activities">
                         <li class="dropdown-header">Innovations</li>
                         <li role="separator" class="divider"></li>
                         <li><a href="ismatic-portfolio.php">HMI Project</a></li>
-                        <li><a href="ismatic-portfolio.php">--Need Project--</a></li>
+                        <li><a href="ismatic-portfolio.php">-</a></li>
                       </div>
 
                       <!-- Boxed -->
                       <div class="col-lg-6 mb-sm-30">
                         <li class="dropdown-header">Prototype</li>
                         <li role="separator" class="divider"></li>
-                        <li><a href="ismatic-portfolio.php">--Need Project--</a></li>
-                        <li><a href="ismatic-portfolio.php">--Need Project--</a></li>
+                        <li><a href="ismatic-portfolio.php">-</a></li>
+                        <li><a href="ismatic-portfolio.php">-</a></li>
                       </div>
 
 
