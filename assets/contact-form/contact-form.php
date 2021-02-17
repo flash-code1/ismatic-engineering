@@ -2,13 +2,23 @@
 
 if(isset($_POST['email'])) {
  
-     
- 
+    include("../../super/functions/db/connect.php");
+    // done
+    $name = $_POST["name"];
+    $msg = $_POST["message"];
+    $em = $_POST["email"];
+    $insert_eq = mysqli_query($connection, "INSERT INTO `enquiries` (`name`, `email`, `message`) VALUES ('{$name}', '{$em}', '{$msg}')");
+
+    if ($insert_eq) {
+      echo "Email Was Successful";
+    } else {
+      echo "GOOD";
+    }
     // ADD YOUR EMAIL WHERE YOU WANT TO RECIEVE THE MESSAGES
  
-    $email_to = "your.email@mail.com";
+    $email_to = "info@ismatic.co.uk";
  
-    $email_subject = "Definity - Contact Form";
+    $email_subject = "Contact Form";
  
      
  
@@ -52,7 +62,7 @@ if(isset($_POST['email'])) {
   
     $email_from = $_POST['email']; // required
  
-    $telephone = $_POST['phone']; // not required
+    // $telephone = $_POST['phone'];
  
     $message = $_POST['message']; // required
  
@@ -105,8 +115,6 @@ if(isset($_POST['email'])) {
     $email_message .= "Name: ".clean_string($name)."\n";
   
     $email_message .= "Email: ".clean_string($email_from)."\n";
- 
-    $email_message .= "Telephone: ".clean_string($telephone)."\n";
  
     $email_message .= "Message: ".clean_string($message)."\n";
  

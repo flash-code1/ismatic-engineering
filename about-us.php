@@ -65,8 +65,24 @@ include('header.php');
 
               <header class="sec-heading">
                 <h2>WHAT WE DO</h2>
-                <span class="subheading">We provide high quality services</span>
+                <span class="subheading">
+
+                <div class="col-md-4">
+              <p>We are a technology innovation and research company for the agriculture and food processing industry. We embrace a culture of continuous improvements, leading to innovation and unrivalled expertise.</p>
+            </div>
+            <div class="col-md-4">
+              <p>We will play a key role in revolutionising Africa’s food processing industry through modern technology that incorporates special purpose machines, bespoke automation and Industry 4.0.</p>
+            </div>
+            <div class="col-md-4">
+              <p>We will use our unique engineering research and development capabilities to drive innovation in food processing and agriculture.</p>
+            </div>
+            </span>
               </header>
+            </div>
+            <br> 
+            <br>
+            <div class="row">
+              
 
               <div class="col-md-12 no-gap">
                 
@@ -75,63 +91,63 @@ include('header.php');
                   <li>
                     <span class="linea-basic-headset ft-icon"></span>
                     <h5>Support</h5>
-                    <h6 class="h-alt">Lorem Ipsum Dolor</h6>
+                    <h6 class="h-alt">24/ Customer Care Service always a click away, a button lower right view</h6>
 
                     <div class="hover-content">
                       <span class="linea-basic-headset ft-icon"></span>
                       <span class="ft-heading">Support</span>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
+                        We are hear for you anytime, a button is located at your lower right view click for Online support.
                       </p>
-                      <a href="#">Learn more</a>
+                      <!-- <a href="#">Learn more</a> -->
                     </div><!-- / .hover-content -->
                   </li>
 
                   <!-- Item 2 -->
                   <li>
                     <span class="linea-basic-gear ft-icon"></span>
-                    <h5>Adjustments</h5>
-                    <h6 class="h-alt">Lorem Ipsum Dolor</h6>
+                    <h5>Engineering Design</h5>
+                    <h6 class="h-alt">Unqiue Engineering Research and Development</h6>
 
                     <div class="hover-content">
                       <span class="linea-basic-gear ft-icon"></span>
-                      <span class="ft-heading">Adjustments</span>
+                      <span class="ft-heading">Engineering Design</span>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
+                      Unqiue Engineering Research and Development
                       </p>
-                      <a href="#" class="link-btn">Learn More</a>
+                      <!-- <a href="#" class="link-btn">Learn More</a> -->
                     </div><!-- / .hover-content -->
                   </li>
 
                   <!-- Item 3 -->
                   <li>
-                    <span class="linea-basic-joypad ft-icon"></span>
-                    <h5>Artificial Intelligence</h5>
-                    <h6 class="h-alt">Lorem Ipsum Dolor</h6>
+                    <span class="linea-basic-cloud ft-icon"></span>
+                    <h5>Artificial Intelligence & IoT</h5>
+                    <h6 class="h-alt">Modern Technology that incorporates special pupose machine</h6>
 
                     <div class="hover-content">
                       <span class="linea-basic-joypad ft-icon"></span>
-                      <span class="ft-heading">--</span>
+                      <span class="ft-heading">Artificial Intelligence & IoT</span>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
+                      Modern Technology that incorporates special pupose machine
                       </p>
-                      <a href="#" class="link-btn">Learn More</a>
+                      <!-- <a href="#" class="link-btn">Learn More</a> -->
                     </div><!-- / .hover-content -->
                   </li>
 
                   <!-- Item 4 -->
                   <li>
                     <span class="linea-basic-message-multiple ft-icon"></span>
-                    <h5>More Content</h5>
-                    <h6 class="h-alt">Lorem Ipsum Dolor</h6>
+                    <h5>Continous Improvement</h5>
+                    <h6 class="h-alt">Embrace a culture of continious imporvement</h6>
 
                     <div class="hover-content">
                       <span class="linea-basic-message-multiple ft-icon"></span>
-                      <span class="ft-heading">Chat</span>
+                      <span class="ft-heading">Continous Improvement</span>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
+                      Embrace a culture of continious imporvement
                       </p>
-                      <a href="#" class="link-btn">Learn More</a>
+                      <!-- <a href="#" class="link-btn">Learn More</a> -->
                     </div><!-- / .hover-content -->
                   </li>
                 </ul>
@@ -163,8 +179,8 @@ include('header.php');
                     <img src="http://placehold.it/360x440" alt="Team Member" class="img-responsive">
                     <div class="t-description">
                       <div class="content-wrapper">
-                        <h4 class="h-alt">Hello!</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <h4 class="h-alt">Howdy!</h4>
+                        <p>CEO & Founder of Ismatic Engineering Limited. Age: Hobbies:</p>
                       </div>
                     </div>
                   </div>
@@ -184,67 +200,6 @@ include('header.php');
                 </div><!-- / .t-item -->
               </div><!-- / .col-md-4 -->
 
-
-              <!-- Member 2 -->
-              <div class="col-lg-4 col-md-6 mb-sm-50">
-                <div class="t-item">
-
-                  <!-- Image -->
-                  <div class="t-image">
-                    <img src="http://placehold.it/360x440" alt="Team Member" class="img-responsive">
-                    <div class="t-description">
-                      <div class="content-wrapper">
-                        <h4 class="h-alt">Hello!</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                      </div>
-                    </div>
-                  </div>
-
-                  <!-- Info -->
-                  <div class="t-info">
-                    <h4 class="t-name">Carol Greene</h4>
-                    <span class="t-role">CTO</span>
-                    <ul style="align-self: center;" class="social-links">
-                      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                      <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                      <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                    </ul>
-                  </div>
-
-                </div><!-- / .t-item -->
-              </div><!-- / .col-md-4 -->
-
-
-              <!-- Member 3 -->
-              <div class="col-lg-4 col-md-6 mb-sm-50">
-                <div class="t-item">
-
-                  <!-- Image -->
-                  <div class="t-image">
-                    <img src="http://placehold.it/360x440" alt="Team Member" class="img-responsive">
-                    <div class="t-description">
-                      <div class="content-wrapper">
-                        <h4 class="h-alt">Hello!</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                      </div>
-                    </div>
-                  </div>
-
-                  <!-- Info -->
-                  <div class="t-info">
-                    <h4 class="t-name">Tyler Owens</h4>
-                    <span class="t-role">Lead Designer</span>
-                    <ul class="social-links">
-                      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                      <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                      <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                    </ul>
-                  </div>
-
-                </div><!-- / .t-item -->
-              </div><!-- / .col-md-4 -->
 
 
             </div><!-- / .row -->

@@ -10,7 +10,9 @@
                 <!-- Show Info Button -->
                 <a href="#" class="show-info-link"><i class="fa fa-info"></i>Show info</a>
 
-                <div id="map-canvas" class="footer-map"></div>
+                <div class="footer-map">
+                <iframe width=100% height="100%" id="gmap_canvas" src="https://maps.google.com/maps?q=APARTMENT%2040%20ECHO%20BUILDING%2C%20WEST%20WEAR%20STREET%2C%20SUNDERLAND%2C%20ENGLAND%2C%20SR1%201XD+(ISMATIC)&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                </div>
 
                 <address class="contact-info-wrapper">
                   <ul>
@@ -29,18 +31,18 @@
                     <!-- Phone -->
                     <li class="contact-group">
                       <span class="adr-heading">Phone</span>
-                      <span class="adr-info">+ -need phone</span>
+                      <span class="adr-info">+44 7861  444409</span>
                     </li>
                     <!-- Mobile -->
                     <li class="contact-group">
                       <span class="adr-heading">Mobile</span>
-                      <span class="adr-info">+ -need phone</span>
+                      <span class="adr-info">+44 7443 237331</span>
                     </li>
                   </ul>                  
                   
                   <a href="#" class="show-map"><span class="linea-basic-geolocalize-05"></span>show on map</a>
                 </address>
-
+<!--  -->
               </div><!-- / .col-lg-6 -->
 
 
@@ -151,6 +153,8 @@
         <script src="assets/js/gmap.js"></script>
         <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDOcd7o0W0r846FC_GoHSK56xeAvP8fV4s"></script>
 
+        <!-- CHAT BOT -->
+        <script src="//code.tidio.co/fs2di3bpv5swajtme2nx4jbb0sdp4c7q.js" async></script>
         <!-- Definity JS -->
         <script src="assets/js/main.js"></script>
     </body>

@@ -2020,7 +2020,7 @@ fieldset[disabled] .form-control:hover {
 
 /* ---- 4.5 Header/Page Title Parallax ---- */
 .pt-plax-md-dark {
-  background: url(http://placehold.it/2440x1280);
+  background: url('../../wall/ai.jpg');
   background-size: cover;
   background-position: 50%;
 }
@@ -2036,7 +2036,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .pt-plax-md-light {
-  background: url(http://placehold.it/2440x1280);
+  background: url('../../wall/ai.jpg');
   background-size: cover;
 }
 
@@ -2051,7 +2051,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .pt-plax-lg-dark {
-  background: url(http://placehold.it/2440x1280);
+  background: url('../../wall/ai.jpg');
   background-size: cover;
 }
 
@@ -2066,7 +2066,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .pt-plax-lg-light {
-  background: url(http://placehold.it/2440x1280);
+  background: url('../../wall/ai.jpg');
   background-size: cover;
 }
 

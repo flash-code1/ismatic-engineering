@@ -47,13 +47,13 @@ include('header.php');
             </header>
 
             <div class="col-md-4">
-              <p>Content of about goes here, quick points about the organization and what it's about.</p>
+              <p>We are a technology innovation and research company for the agriculture and food processing industry. We embrace a culture of continuous improvements, leading to innovation and unrivalled expertise.</p>
             </div>
             <div class="col-md-4">
-              <p>Content of about goes here, quick points about the organization and what it's about.</p>
+              <p>We will play a key role in revolutionising Africa’s food processing industry through modern technology that incorporates special purpose machines, bespoke automation and Industry 4.0.</p>
             </div>
             <div class="col-md-4">
-              <p>Content of about goes here, quick points about the organization and what it's about.</p>
+              <p>We will use our unique engineering research and development capabilities to drive innovation in food processing and agriculture.</p>
             </div>
           </div><!-- / .row -->
           <div class="row ws-m">
