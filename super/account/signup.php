@@ -62,21 +62,21 @@ $randms = str_pad(rand(0, pow(10, $digits)-1), $digits, '0', STR_PAD_LEFT);
              // begining of mail
              $mail = new PHPMailer;
              // from email addreess and name
-             $mail->From = "info@bfsl633.com";
-             $mail->FromName = "BFSL";
+             $mail->From = "info@ismatic.co.uk";
+             $mail->FromName = "Ismatic Engineering";
              // to adress and name
              $mail->addAddress($email, $username);
              // reply address
              //Address to which recipient will reply
              // progressive html images
-             $mail->addReplyTo("info@bfsl633.com", "Reply");
+             $mail->addReplyTo("info@ismatic.co.uk", "Reply");
              // CC and BCC
              //CC and BCC
              // $mail->addCC("cc@example.com");
              // $mail->addBCC("bcc@example.com");
              // Send HTML or Plain Text Email
              $mail->isHTML(true);
-             $mail->Subject = "WELCOME TO BFSL";
+             $mail->Subject = "Welcome to Ismatic Engineering";
              $mail->Body = "<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
              <html dir='ltr' xmlns='http://www.w3.org/1999/xhtml'>
              
@@ -111,20 +111,20 @@ $randms = str_pad(rand(0, pow(10, $digits)-1), $digits, '0', STR_PAD_LEFT);
                                      <tr>
                                          <td>
                                              <p>Submitted Date <b>$gen_date</b></p>
-                                             <p>WELCOME TO BFSL</p>
+                                             <p>WELCOME TO ISMATIC LOGIN CREDENTIALS</p>
                                              <p>Find Below Your Login Credentials</p>
                                              <p>Username: $username</p>
                                              <p>Password: $password</p>
                                              <center>
-                                                 <a href='https://bfsl633.com/super/account/index.php' style='display: inline-block; padding: 11px 30px; margin: 20px 0px 30px; font-size: 15px; color: #fff; background: #4fc3f7; border-radius: 60px; text-decoration:none;'>Explore</a>
+                                                 <a href='https://ismatic.co.uk/super/account/index.php' style='display: inline-block; padding: 11px 30px; margin: 20px 0px 30px; font-size: 15px; color: #fff; background: #4fc3f7; border-radius: 60px; text-decoration:none;'>Explore</a>
                                              </center>
-                                             <b>- Thanks (BFSL Email Robot)</b> </td>
+                                             <b>- Thanks (ISMATIC Email Robot)</b> </td>
                                      </tr>
                                  </tbody>
                              </table>
                          </div>
                          <div style='text-align: center; font-size: 12px; color: #b2b2b5; margin-top: 20px'>
-                             <p> Powered by BFSL
+                             <p> Powered by Ismatic Engineering
                                  <br>
                                  <a href='javascript: void(0);' style='color: #b2b2b5; text-decoration: underline;'>Unsubscribe</a> </p>
                          </div>
