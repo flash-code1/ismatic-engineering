@@ -19,7 +19,7 @@
                     <!-- Address -->
                     <li class="contact-group">
                       <span class="adr-heading">Address</span>
-                      <span class="adr-info">Apartment 40 Echo Building, West Wear Street, Sunderland, England, SR1 1XD</span>
+                      <span class="adr-info">Echo Building, West Wear Street, Sunderland SR1 1XD, United Kingdom</span>
                     </li>
                     <!-- Email -->
                     <li class="contact-group">
@@ -31,12 +31,12 @@
                     <!-- Phone -->
                     <li class="contact-group">
                       <span class="adr-heading">Phone</span>
-                      <span class="adr-info">+44 7861  444409</span>
+                      <span class="adr-info">-</span>
                     </li>
                     <!-- Mobile -->
                     <li class="contact-group">
                       <span class="adr-heading">Mobile</span>
-                      <span class="adr-info">+44 7443 237331</span>
+                      <span class="adr-info">-</span>
                     </li>
                   </ul>                  
                   

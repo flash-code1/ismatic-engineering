@@ -67,37 +67,27 @@ include('header.php');
 
         <!-- ========== Number Counters - Dark bg ========== -->
 
-        <div class="number-counters-dark-bg">
+        <!-- <div class="number-counters-dark-bg">
           <div class="container">
             <div id="counters-min" class="row count-wrapper">
               
-              <!-- Item 1 -->
               <div class="col-md-4 mb-sm-100 count-item wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">
                 <span id="count-min-1" class="count-nbr">258</span>
                 <span class="count-text">Projects completed</span>
               </div>
 
-              <!-- Item 2 -->
               <div class="col-md-4 mb-sm-100 count-item wow fadeIn" data-wow-duration="1s">
                 <span id="count-min-2" class="count-nbr">27</span>
                 <span class="count-text">On-going Projects</span>
               </div>
-
-              <!-- Item 3 -->
-              <!-- <div class="col-md-3 mb-sm-100 count-item wow fadeIn" data-wow-duration="1s">
-                <span id="count-min-3" class="count-nbr">471</span>
-                <span class="count-text">Pixels cr</span>
-              </div> -->
-
-              <!-- Item 4 -->
               <div class="col-md-4 count-item wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">
                 <span id="count-min-4" class="count-nbr">240</span>
                 <span class="count-text">Happy clients</span>
               </div>
 
-            </div><!-- / .row -->
-          </div><!-- / .container -->
-        </div><!-- / .number-counters -->
+            </div>
+          </div>
+        </div> -->
 
 
 
@@ -393,9 +383,9 @@ include('header.php');
                 <div class="t-item wow fadeIn" data-wow-duration="1s">
                   <img src="assets/images/avatar-placeholder.png" alt="Testimonial">
                   <blockquote>
-                    <p>Thank you for your service, The pandemic has really caused alot but ISMATIC helped fight through during hard times when my business faced terrible breakdown</p>
+                    <p>-</p>
                     <footer>
-                      <cite>by Julian Schmitz<span>Google</span></cite>
+                      <cite>-<span>-</span></cite>
                     </footer>
                   </blockquote>
                   <span class="et-quote t-icon"></span>
@@ -404,12 +394,12 @@ include('header.php');
 
               <!-- Item 2 -->
               <div class="col-md-4 mb-sm-50">
-                <div class="t-item wow fadeIn"  data-wow-duration="1s" data-wow-delay=".3s">
+                <div class="t-item wow fadeIn" data-wow-duration="1s">
                   <img src="assets/images/avatar-placeholder.png" alt="Testimonial">
                   <blockquote>
-                    <p>Automation on my business has helped improve workflow and gave me better insight to my business perfomance, Thank you ismatic engineering.</p>
+                    <p>-</p>
                     <footer>
-                      <cite>by Cecilia Acosta<span>Apple</span></cite>
+                      <cite>-<span>-</span></cite>
                     </footer>
                   </blockquote>
                   <span class="et-quote t-icon"></span>
@@ -417,13 +407,13 @@ include('header.php');
               </div><!-- / .col-md-4 -->
 
               <!-- Item 3 -->
-              <div class="col-md-4">
-                <div class="t-item wow fadeIn" data-wow-duration="1s" data-wow-delay=".6s">
+              <div class="col-md-4 mb-sm-50">
+                <div class="t-item wow fadeIn" data-wow-duration="1s">
                   <img src="assets/images/avatar-placeholder.png" alt="Testimonial">
                   <blockquote>
-                    <p>You the Best</p>
+                    <p>-</p>
                     <footer>
-                      <cite>by Gerald Pena<span>W a Scott Agricultural Contractor</span></cite>
+                      <cite>-<span>-</span></cite>
                     </footer>
                   </blockquote>
                   <span class="et-quote t-icon"></span>

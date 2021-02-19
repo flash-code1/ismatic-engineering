@@ -176,18 +176,18 @@ include('header.php');
 
                   <!-- Image -->
                   <div class="t-image">
-                    <img src="http://placehold.it/360x440" alt="Team Member" class="img-responsive">
+                    <img src="wall/CEOis.jpeg" height="440" width="360" alt="Team Member" class="img-responsive">
                     <div class="t-description">
                       <div class="content-wrapper">
                         <h4 class="h-alt">Howdy!</h4>
-                        <p>CEO & Founder of Ismatic Engineering Limited. Age: Hobbies:</p>
+                        <p>CEO & Founder of Ismatic Engineering Limited.</p>
                       </div>
                     </div>
                   </div>
 
                   <!-- Info -->
                   <div class="t-info">
-                    <h4 class="t-name">Dr Ismail Jimoh Abubakar</h4>
+                    <h4 class="t-name">Dr Ismail Jimoh</h4>
                     <span class="t-role">CEO &amp; Founder</span>
                     <ul class="social-links">
                       <li><a href="#"><i class="fa fa-facebook"></i></a></li>

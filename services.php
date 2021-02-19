@@ -8,7 +8,7 @@ include('header.php');
 
 <!-- Video Background -->
 <div id="fw-video-one-bg" class="player" 
-     data-property="{videoURL:'https://youtu.be/SuJGXTFDqj8',containment:'.fw-video-hero',autoPlay:true, mute:true, startAt:20, stopAt:36, opacity:1}">
+     data-property="{videoURL:'https://firebasestorage.googleapis.com/v0/b/churaton-6e682.appspot.com/o/videoism.mp4?alt=media&token=5cd3da7f-e133-4d7b-bb3a-ff6a35c5e5128',containment:'.fw-video-hero',autoPlay:true, mute:true, startAt:1, stopAt:36, opacity:1}">
 </div>
 
 <div class="bg-overlay">
@@ -89,7 +89,7 @@ include('header.php');
             <!-- Feature 3 -->
              <div class="ft-item">
               <div class="col-lg-6 ft-img-wrapper">
-                <img src="https://cdn.pixabay.com/photo/2017/03/27/11/19/welding-2178127_960_720.jpg" alt="Features Image">
+                <img src="wall/original.jpg" alt="Features Image">
               </div>
               <div class="col-lg-6 ft-content-wrapper">
                 <h5>Testing & Validation</h5>

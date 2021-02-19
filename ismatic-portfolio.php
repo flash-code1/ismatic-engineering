@@ -14,9 +14,9 @@ include('header.php');
               <div class="bg-overlay">
 
                 <div class="content-wrapper">
-                  <a href="ismatic-portfolio.php"><h3>Project Name</h3></a>
-                  <p>Description about the project,<br> more content with few words</p>
-                  <a href="ismatic-portfolio.php" class="btn-ghost btn-ghost-light ft-button">More Projects</a>
+                  <a href="ismatic-portfolio.php"><h3>..</h3></a>
+                  <p>.<br>..</p>
+                  <!-- <a href="ismatic-portfolio.php" class="btn-ghost btn-ghost-light ft-button">More Projects</a> -->
                 </div>
 
               </div><!-- / .bg-overlay -->
@@ -27,9 +27,9 @@ include('header.php');
               <div class="bg-overlay">
 
                 <div class="content-wrapper">
-                  <a href="ismatic-portfolio.php"><h3>Project Name</h3></a>
-                  <p>Description about the project,<br> more content with few words</p>
-                  <a href="ismatic-portfolio.php" class="btn-ghost btn-ghost-light ft-button">More Projects</a>
+                  <a href="ismatic-portfolio.php"><h3>HMI</h3></a>
+                  <p>Human Machine Interface<br> </p>
+                  <!-- <a href="ismatic-portfolio.php" class="btn-ghost btn-ghost-light ft-button">More Projects</a> -->
                 </div>
 
               </div><!-- / .bg-overlay -->
@@ -39,9 +39,7 @@ include('header.php');
 
           </div><!-- / .row -->
 
-          <div class="row">
-            
-            <!-- Item 1 -->
+          <!-- <div class="row">
             <div class="ft-item ft-3 col-md-6">
               <div class="bg-overlay">
 
@@ -51,10 +49,9 @@ include('header.php');
                   <a href="ismatic-portfolio.php" class="btn-ghost btn-ghost-light ft-button">More Projects</a>
                 </div>
 
-              </div><!-- / .bg-overlay -->
-            </div><!-- / .ft-item -->
+              </div>
+            </div>
 
-            <!-- Item 2 -->
             <div class="ft-item ft-4 col-md-6">
               <div class="bg-overlay">
 
@@ -64,12 +61,12 @@ include('header.php');
                   <a href="ismatic-portfolio.php" class="btn-ghost btn-ghost-light ft-button">More Projects</a>
                 </div>
 
-              </div><!-- / .bg-overlay -->
-            </div><!-- / .ft-item -->
+              </div>
+            </div>
 
             
 
-          </div><!-- / .row -->
+          </div> -->
         </div><!-- / .container-fluid -->
 
 
