@@ -14,7 +14,7 @@ include('header.php');
               <div class="bg-overlay">
 
                 <div class="content-wrapper">
-                  <a href="ismatic-portfolio.php"><h3>..</h3></a>
+                  <a href="ismatic-portfolio.php"><h3>Rice Dehuler</h3></a>
                   <p>.<br>..</p>
                   <!-- <a href="ismatic-portfolio.php" class="btn-ghost btn-ghost-light ft-button">More Projects</a> -->
                 </div>

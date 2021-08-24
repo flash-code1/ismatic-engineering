@@ -193,8 +193,8 @@ include('header.php');
               <div class="bg-overlay">
 
                 <div class="content-wrapper">
-                  <a href="ismatic-portfolio.php"><h3>Project Name</h3></a>
-                  <p>Description about the project,<br> more content with few words</p>
+                  <a href="ismatic-portfolio.php"><h3>Rice Dehuler</h3></a>
+                  <p>...</p>
                   <a href="ismatic-portfolio.php" class="btn-ghost btn-ghost-light ft-button">More Projects</a>
                 </div>
 

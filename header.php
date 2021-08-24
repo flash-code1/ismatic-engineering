@@ -110,7 +110,7 @@ Engineering related scientific and technical consulting activities">
                         <li class="dropdown-header">Innovations</li>
                         <li role="separator" class="divider"></li>
                         <li><a href="ismatic-portfolio.php">HMI Project</a></li>
-                        <li><a href="ismatic-portfolio.php">-</a></li>
+                        <li><a href="ismatic-portfolio.php">Rice Dehuler</a></li>
                       </div>
 
                       <!-- Boxed -->

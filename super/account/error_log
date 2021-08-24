@@ -1,0 +1,4 @@
+[18-Feb-2021 00:56:08 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/ismaticc/public_html/super/bat/phpmailer/PHPMailerAutoload.php on line 45
+[18-Feb-2021 01:06:25 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/ismaticc/public_html/super/bat/phpmailer/PHPMailerAutoload.php on line 45
+[18-Feb-2021 01:07:11 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/ismaticc/public_html/super/bat/phpmailer/PHPMailerAutoload.php on line 45
+[18-Feb-2021 01:07:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/ismaticc/public_html/super/account/signup.php on line 47

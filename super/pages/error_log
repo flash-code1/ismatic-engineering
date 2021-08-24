@@ -1,0 +1,3 @@
+[18-Feb-2021 01:08:34 UTC] PHP Notice:  Undefined index: username in /home/ismaticc/public_html/super/pages/header.php on line 7
+[18-Feb-2021 01:08:34 UTC] PHP Notice:  Undefined index: email in /home/ismaticc/public_html/super/pages/header.php on line 8
+[18-Feb-2021 01:08:34 UTC] PHP Notice:  Undefined index: email in /home/ismaticc/public_html/super/pages/header.php on line 9
