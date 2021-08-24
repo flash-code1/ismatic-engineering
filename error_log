@@ -1,0 +1,2 @@
+[20-Mar-2021 19:08:25 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/ismaticc/public_html/super/functions/db/connect.php on line 16
+[20-Mar-2021 19:08:25 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/ismaticc/public_html/super/functions/db/connect.php on line 19

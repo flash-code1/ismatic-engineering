@@ -1,17 +1,17 @@
 <?php
 // PRODUCTION
-// define('DB_SERVER', 'localhost');
-// define('DB_USERNAME', 'ismaticc_admin');
-// define('DB_PASSWORD', 'w&HXs(ZTeq}r');
-// define('DB_CHARSET', 'utf8');
-// define('DB_NAME', 'ismaticc_website');
-// test
-// DEV
 define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '');
+define('DB_USERNAME', 'ismaticc_admin');
+define('DB_PASSWORD', 'w&HXs(ZTeq}r');
 define('DB_CHARSET', 'utf8');
 define('DB_NAME', 'ismaticc_website');
+// test
+// DEV
+// define('DB_SERVER', 'localhost');
+// define('DB_USERNAME', 'root');
+// define('DB_PASSWORD', '');
+// define('DB_CHARSET', 'utf8');
+// define('DB_NAME', 'ismaticc_website');
 
 $connection = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);
 
